@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The morning-exercise, or some short notes taken out of the morning-sermons which divers reverend ministers of the gospel, in the city of London preached in Giles in the Fields, during the moneth of May 1655. / By Tho. Case, minister of Gods word.</title>
+            <author>Case, Thomas, 1598-1682.</author>
+         </titleStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81246</idno><idno type="EEBO-CITATION">99868370</idno>
+  <idno type="VID">120712</idno>
+  <idno type="EEBO-PROQUEST">2240947034</idno>
+  
+            <idno type="STC">Wing C834</idno>
+            <idno type="STC">Thomason E1706_1</idno>
+            <idno type="STC">ESTC R209493</idno>
+            <idno type="PROQUEST">99868370</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868370e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120712)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 212:E1706[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The morning-exercise, or some short notes taken out of the morning-sermons which divers reverend ministers of the gospel, in the city of London preached in Giles in the Fields, during the moneth of May 1655. / By Tho. Case, minister of Gods word.</title>
+                  <author>Case, Thomas, 1598-1682.</author>
+               </titleStmt>
+               <extent>[12], 115, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Robert Gibbs in Chancery-lane near Serjeants Inne.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final two leaves contain, in order, a blank leaf and: A caution to the reader.</note>
+                  <note>Annotation on Thomason copy: "31 October"; "St:" preceeding 'Giles'.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120712:1"/>
+            <p>THE <hi>Morning-Exercise,</hi> OR Some Short <hi>NOTES</hi> taken out of the <hi>MORNING-SERMONS</hi> which divers <hi>Reverend Ministers</hi> OF THE GOSPEL, in the CITY of <hi>LONDON</hi> Preached in <hi>GILES</hi> in the Fields, du<g ref="char:EOLhyphen"/>ring the Moneth of <hi>May</hi> 1655.</p>
+            <p>By <hi>THO. CASE,</hi> Minister of Gods Word.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T.R.</hi> and <hi>E.M.</hi> for <hi>Robert Gibbs</hi> in Chancery-lane near Serjeants Inne. 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:120712:2"/>
+            <pb facs="tcp:120712:2"/>
+            <head>TO THE Right Honourable, the LADY <hi>ALICIA DƲDDELEY; Grace and Peace be multiplied from our Lord Jesus Christ.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hese Notes being taken from the Pul<g ref="char:EOLhyphen"/>pit to my hand, I could not well with<g ref="char:EOLhyphen"/>stand the importu<g ref="char:EOLhyphen"/>nity of some friends, who de<g ref="char:EOLhyphen"/>sired
+<pb facs="tcp:120712:3"/>my consent for the <hi>print<g ref="char:EOLhyphen"/>ing</hi> of them; I must confesse the conceptions so farre as they are mine; were <hi>sudden</hi> and <hi>in<g ref="char:EOLhyphen"/>digested,</hi> and I have had scarce time by meanes of continual diversions, to <hi>correct material</hi> mistakes; much lesse to <hi>enlarge</hi> or <hi>perfect</hi> the Notes; howe<g ref="char:EOLhyphen"/>ver if they may be of use to any that may have leisure to cast an eye upon them, it shall abundantly preponderate the censure which their defects may justly incurre. Whatever they are, I shall confidently pro<g ref="char:EOLhyphen"/>mise a <hi>gracious acceptance</hi> with your <hi>honour,</hi> who were pleased to encourage them in the Pul<g ref="char:EOLhyphen"/>pit,
+<pb facs="tcp:120712:3"/>with your <hi>Christian atten<g ref="char:EOLhyphen"/>tion.</hi> They are yours by many engagements; not only upon <hi>my selfe,</hi> but the whole <hi>parish</hi> on whom your <hi>munificence</hi> hath laid so many and deep obligations. Your transcendent bounty at the <hi>re-building</hi> of the <hi>Church-Edifice;</hi> the <hi>Rich Vessels</hi> of <hi>plate,</hi> wherewith your Ladi<g ref="char:EOLhyphen"/>ship hath furnished the <hi>Lords Table.</hi> Your <hi>purchase</hi> of the <hi>rever<g ref="char:EOLhyphen"/>si<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of an house,</hi> for the succes<g ref="char:EOLhyphen"/>sive Ministery of this place, and in the <hi>interim</hi> your <hi>charge, inbuying off a considerable part of the rent,</hi> during the present owners life. <hi>These</hi> with ma<g ref="char:EOLhyphen"/>ny other publick exhibitions of
+<pb facs="tcp:120712:4"/>your pious charity, will stand as so many <hi>monuments</hi> of your goodnesse to <hi>posterity,</hi> and render your <hi>name</hi> Honourabl<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to after-generations. Your coun<g ref="char:EOLhyphen"/>tenance vouchsafed to my <hi>per<g ref="char:EOLhyphen"/>son</hi> and <hi>Ministery,</hi> since my call to this place, with the many renewed expressions of your undeserved favour, oblige me to the best service within my capacity. And because I de<g ref="char:EOLhyphen"/>spaire of opportunitie <hi>suit<g ref="char:EOLhyphen"/>able</hi> to mine own <hi>wishes,</hi> and your <hi>merit;</hi> I have made bold to close with this <hi>slender advan<g ref="char:EOLhyphen"/>tage</hi> of testifying to the world my deep sense of your multipli<g ref="char:EOLhyphen"/>ed respects to <hi>this place,</hi> and the
+<pb facs="tcp:120712:4"/>
+               <hi>Ministery of the Gospel.</hi> And that the <hi>Father of mercies,</hi> will returne all your love with a rich recompence of reward both of <hi>grace</hi> and <hi>glory,</hi> shall be the ear<g ref="char:EOLhyphen"/>nest prayer,</p>
+            <closer>
+               <salute>Madam,</salute>
+               <lb/>
+               <signed>Of your most Humble<lb/> Servant in the Gospel<lb/> of Christ,<lb/>
+                  <hi>THO. CASE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:120712:5"/>
+            <pb facs="tcp:120712:5"/>
+            <head>To the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E <hi>live in such an age, wherein many have cast off not only the</hi> traditi<g ref="char:EOLhyphen"/>ons of men, <hi>and</hi> ceremonies of an humane imposition, <hi>(that were well) but the</hi> very Ordinances <hi>of the great God, those solemn duties, wherein we professe our</hi> dependance upon God, <hi>and</hi> subjection to him; <hi>and which were appointed, not only for the more solemn</hi> acting <hi>of the graces of his Spirit, but the</hi> preserving <hi>of them in life and vigour; so that the Lord is robbed of the</hi> respect <hi>and</hi>
+               <pb facs="tcp:120712:6"/>homage <hi>due to him, and their own soules, of the</hi> comfort <hi>and</hi> profit <hi>which otherwise they might receive in the</hi> conscionable use <hi>of the</hi> insti<g ref="char:EOLhyphen"/>tuted means of grace: <hi>a growing evil, that cannot be sufficiently</hi> la<g ref="char:EOLhyphen"/>mented <hi>and</hi> withstood. <hi>One great occasion of this mischief is, our own</hi> perfunctory <hi>and</hi> formal use <hi>of Ordinances, we bring a re<g ref="char:EOLhyphen"/>proach upon the holy wayes of the Lord, while we do no more thrive un<g ref="char:EOLhyphen"/>der them; a carelesse Professour that often</hi> heareth of the glorious things <hi>that are spoken of the means of grace, but</hi> feeleth nothing, <hi>doth but put a temptation of</hi> Atheisme <hi>upon himself, and of</hi> scandal <hi>upon others; to us they are</hi> successelesse, <hi>and then presently to others</hi> uselesse.
+<pb facs="tcp:120712:6"/>
+               <hi>Surely, we need much quickning, that we may not</hi> receive this grace of God in vain; <hi>this is the designe of the Reverend Authour in these discourses, which are now put into thy hands, which being very useful for common good, I do judge it a mercy that they are printed, and ac<g ref="char:EOLhyphen"/>cordingly desire the Lord to blesse them to thy use.</hi>
+            </p>
+            <closer>
+               <signed>Thine in the ser<g ref="char:EOLhyphen"/>vice of the Gospel,<lb/> THO. MANTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:120712:7"/>
+            <pb n="1" facs="tcp:120712:7"/>
+            <head>A SERMON Preach't at St. GILES in the Fields, <hi>April</hi> 29. 1655. In reference to the <hi>Morn<g ref="char:EOLhyphen"/>ing</hi>-EXERCISE.</head>
+            <epigraph>
+               <q>
+                  <bibl>JAMES <hi>1.19.</hi>
+                  </bibl>
+                  <p>Be swift to heare.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He dependency of the words is brief<g ref="char:EOLhyphen"/>ly thus.</p>
+            <p>The Apostle ha<g ref="char:EOLhyphen"/>ving in the eighteenth verse
+<pb n="2" facs="tcp:120712:8"/>spoken of the Gospel as the instrument and <hi>medium</hi> which God is pleased to use in the great work of regene<g ref="char:EOLhyphen"/>ration; <hi>Of his own Will he begat us by the Word of truth;</hi> doth in this verse upon that very ground presse <hi>Christians</hi> to constancy and diligence in attending upon the Mi<g ref="char:EOLhyphen"/>nistery of the Word; <hi>Where<g ref="char:EOLhyphen"/>fore my beloved Brethren, let every man be swift to heare, &amp;c. q.d.</hi> In as much as God hath put such a wonderful honour and dignity upon the Word, as to make it the <hi>immortal seed,</hi> whereby he begets sons and daughters to himself; do ye honour it al<g ref="char:EOLhyphen"/>so by a constant and consci<g ref="char:EOLhyphen"/>encious attendance upon the Word, &amp;c. <hi>Let every man be swift to hear.</hi> And from hence observe,</p>
+            <pb n="3" facs="tcp:120712:8"/>
+            <p>
+               <hi>It is a duty which God en<g ref="char:EOLhyphen"/>joynes unto, <label type="milestone">
+                     <seg type="milestoneunit">Observ. </seg>
+                  </label> and expects from every man and woman,
+<note place="margin">For the fuller o<g ref="char:EOLhyphen"/>pening of the text. See <hi>Mr. Manton</hi> on the place.</note> that sits under a Gospel-Ministery, to be swift to hear.</hi>
+            </p>
+            <p>Now <hi>Swiftnesse</hi> implieth three things.</p>
+            <p n="1">1. A free and a willing Spirit.</p>
+            <p n="2">2. Frequency and constan<g ref="char:EOLhyphen"/>cy in the work.</p>
+            <p n="3">3. An high estimate and va<g ref="char:EOLhyphen"/>luation of it in our judge<g ref="char:EOLhyphen"/>ment, the appreciative fa<g ref="char:EOLhyphen"/>culty.</p>
+            <p>First, Swiftnesse in hear<g ref="char:EOLhyphen"/>ing implieth <hi>willingnesse</hi> and <hi>readinesse</hi> of spirit, that we should attend upon that Or<g ref="char:EOLhyphen"/>dinance of God, without murmur or reluctancy; that we should hear, not by com<g ref="char:EOLhyphen"/>pulsion, or fear of punish<g ref="char:EOLhyphen"/>ment, but out of an inate love
+<pb n="4" facs="tcp:120712:9"/>to the Word, and prompti<g ref="char:EOLhyphen"/>tude of spirit; what we do freely, and from an in<g ref="char:EOLhyphen"/>ward natural principle we do swiftly; we are carried, as it were, upon the <hi>wing</hi> of de<g ref="char:EOLhyphen"/>sire and connatural im<g ref="char:EOLhyphen"/>pulse.</p>
+            <p>No offering pleaseth God so well as the <hi>free-will-offering. Accept,
+<note place="margin">Ps. 119.108</note> I beseech thee the free-will-offering of my mouth, and teach me thy judgements.</hi> When we are ready to <hi>hear,</hi> God is ready to <hi>teach.</hi> Chri<g ref="char:EOLhyphen"/>stians should give themselves up to God, and to the Mini<g ref="char:EOLhyphen"/>stery of the Gospel, as, 2 <hi>Cor.</hi> 8.5.</p>
+            <p n="2">2ly, Swiftness implieth <hi>fre<g ref="char:EOLhyphen"/>quency</hi> and <hi>constancy</hi> in hear<g ref="char:EOLhyphen"/>ing. That we should take all occasions, and lay hold upon every opportunity of
+<pb n="5" facs="tcp:120712:9"/>getting knowledge. <hi>Delay is a signe of unwillingnesse.</hi> Christians should decline no opportunity of being ac<g ref="char:EOLhyphen"/>quainted with the Will of God.
+<note place="margin">Rom. 12.2</note>
+               <hi>Proving what is that good, and acceptable, and per<g ref="char:EOLhyphen"/>sect Will of God.</hi> Praying, <hi>that they might be silled with the knowledge of his Will,
+<note place="margin">Col. 1.9.</note> in all wisdome and spiritual un<g ref="char:EOLhyphen"/>derstanding.</hi>
+            </p>
+            <p>The living creatures in <hi>Ezekiels</hi> vision,
+<note place="margin">Ezek. 1.6.</note> had every one of them <hi>foure faces</hi> and <hi>foure wings</hi> with their faces, <hi>expecting the commands</hi> of the <hi>Spirit,</hi> and with their <hi>wings</hi> ready for <hi>execution.</hi> Such should be the dispositi<g ref="char:EOLhyphen"/>on of <hi>Christians.</hi> It is not safe disputing of commands, or to take time to consider, whether we should obey or
+<pb n="6" facs="tcp:120712:10"/>no.
+<note place="margin">Rev. 2.29.</note>
+               <hi>He that hath an ear to hear let him he are;</hi> the Organ was created for that very end; and we should count that an obligation to the duty, with our Lord.
+<note place="margin">Psal. 40.6.</note>
+               <hi>Mine eares hast thou opened,</hi> or <hi>digged.</hi> We should take all opportunities of hearing, because God hath given us our hearing to that very purpose; <hi>He that made the eare, shall not he be heard?</hi>
+            </p>
+            <p>Thirdly, Swiftnesse deno<g ref="char:EOLhyphen"/>teth the <hi>esteem and valuati<g ref="char:EOLhyphen"/>on</hi> we should put upon the Word. We should rate eve<g ref="char:EOLhyphen"/>ry opportunity of increasing our knowledge at an high price; and with holy <hi>Job, e<g ref="char:EOLhyphen"/>steem the words of Gods mouth more then our necessary food.</hi>
+               <note place="margin">Job 23.12</note> We should choose rather to lose a meales meat then a
+<pb n="7" facs="tcp:120712:10"/>Gospel-opportunity.</p>
+            <div type="part">
+               <head>Grounds or Reasons of the Point. <label type="milestone">
+                     <seg type="milestoneunit">Reasons. </seg>
+                  </label>
+               </head>
+               <p>First, The bare Command of God is sufficient.</p>
+               <p>He that liveth or al<g ref="char:EOLhyphen"/>lows himself, in a voluntary neglect of hearing, liveth in a course of rebellion. He liveth in as great a sin, as he that liveth in <hi>theft</hi> or <hi>adul<g ref="char:EOLhyphen"/>tery:</hi> He that said, <hi>Thou shalt not commit adultery,</hi> said al<g ref="char:EOLhyphen"/>so, <hi>Be swift to hear;
+<note place="margin">Jam, 10.11</note> and he that hath an eare to hear let him heare.</hi>
+               </p>
+               <p>Secondly, but God doth not impose the duty by his bare authority; but he per<g ref="char:EOLhyphen"/>swades it upon our advan<g ref="char:EOLhyphen"/>tage, as in the context.</p>
+               <p n="1">1. For the <hi>working of
+<pb n="8" facs="tcp:120712:11"/>grace,
+<note place="margin">
+                        <hi>Faith com<g ref="char:EOLhyphen"/>eth by bearing.</hi> Rom. 10.17.</note> where it is wanting; ver.</hi> 18. <hi>Of his own Will he begat us by the Word of truth. There<g ref="char:EOLhyphen"/>fore be swift to hear.</hi>
+               </p>
+               <p n="2">2. For the <hi>increasing of grace where it is begun,
+<note place="margin">Eph. 4.12.</note> for the perfe<g ref="char:EOLhyphen"/>ctiug of the Saints, for the edify<g ref="char:EOLhyphen"/>ing of the body of Christ;</hi> as in the increas of the <hi>number</hi> of be lievers, so of their <hi>graces</hi> also.</p>
+               <p n="3">3. For letting in of com<g ref="char:EOLhyphen"/>fort and joy into the hearts of the children of Promise; Comfort cometh by hearing as well as faith;
+<note place="margin">Rom. 15 4</note>
+                  <hi>That you through patience and comfort of the Scriptures might have hope.</hi>
+               </p>
+               <p>Now (as one saith) who would neglect a way where<g ref="char:EOLhyphen"/>in all the Saints of God have found so much good?
+<note place="margin">Mr. <hi>Man<g ref="char:EOLhyphen"/>ton in loc.</hi>
+                  </note>
+               </p>
+               <p>In a word, blessednesse is bound up in hearing, <hi>Prov.</hi>
+                  <pb n="9" facs="tcp:120712:11"/>8.34. and <hi>Matth.</hi> 13.16.</p>
+               <p>
+                  <hi>Occasional,</hi> blessednesse blessednesse in the <hi>opportn<g ref="char:EOLhyphen"/>nity</hi> of blessednesse.</p>
+               <p>They that neglect hear<g ref="char:EOLhyphen"/>ing neglect their own happi<g ref="char:EOLhyphen"/>nesse and salvation; and <hi>how shall we escape, if we neglect so great salvation?</hi>
+                  <note place="margin">Heb. 2.3.</note>
+               </p>
+               <p>
+                  <hi>Ʋse.</hi> First, for informati<g ref="char:EOLhyphen"/>on. It discovereth the ig<g ref="char:EOLhyphen"/>norance of such as live in the habitual neglect of this great Gospel duty; that can allow themselves in omissions ther<g ref="char:EOLhyphen"/>of; And think themselves ne're the worse. Surely they are ignorant</p>
+               <p n="1">1. <hi>Of God,</hi> they know not God, his Infinitenesse, his Im<g ref="char:EOLhyphen"/>mensity, his Soveraignty, his inconcevable perfections. It is not the work of a few days to know God. We may truly say
+<pb n="10" facs="tcp:120712:12"/>here,
+<note place="margin">Ars long a vita bre<g ref="char:EOLhyphen"/>vis.</note>
+                  <hi>Life is short, but the work is great.</hi> Indeed it is not the work of time, but of eternity. There are such endlesse and boundlesse per<g ref="char:EOLhyphen"/>fections in God, as that there shall be fresh visions in God, to feast the eye of Saints and Angels to all eter<g ref="char:EOLhyphen"/>nity; still they shall discover new excellencies and perfe<g ref="char:EOLhyphen"/>ctions in the divine Na<g ref="char:EOLhyphen"/>ture.</p>
+               <p>Hence the Prophet, <hi>Then shall we know,
+<note place="margin">Hos. 6.3.</note> if we follow on to know the Lord.</hi> It is not a work to be done by a few feeble sluggish essayes, but requires a constant and vi<g ref="char:EOLhyphen"/>gourous pursuit of the soul. <hi>Then shall we know, if we fol<g ref="char:EOLhyphen"/>low on to know the Lord.</hi>
+               </p>
+               <p>They know not God, that think it is an easie matter to know God.</p>
+               <p n="2">
+                  <pb n="11" facs="tcp:120712:12"/> 2. They are ignorant of their own hearts; they know not themselves: their want of knowledge, their weak<g ref="char:EOLhyphen"/>nesse in grace, the discom<g ref="char:EOLhyphen"/>posure of their own spirits, their estrangement from God; and the like. A true and deepe sense of these would awaken them to con<g ref="char:EOLhyphen"/>stancy and diligence in at<g ref="char:EOLhyphen"/>tending on the Ordinances. None want the Ordinances so much, as they that see not the want of them.</p>
+               <p n="3">3. They knew not the la<g ref="char:EOLhyphen"/>titude and perfection of the Word; the breadth, and length, and depth of the Law.
+<note place="margin">Ps. 19.96</note>
+                  <hi>Thy Law is exceeding broad.</hi> They that have taken the dimensions of the Word, or rather have seen how im<g ref="char:EOLhyphen"/>possible it is to take them,
+<pb n="12" facs="tcp:120712:13"/>(as the Apostle speaks of the love of Christ, <hi>Phil.</hi> 3.19) that know the compasse of the Word which passeth knowledge, that know how boundlesse and how bot<g ref="char:EOLhyphen"/>tomles a depth of divine wis<g ref="char:EOLhyphen"/>dom it is, surely they will be swift to improve every op<g ref="char:EOLhyphen"/>portunity of Scripture-know<g ref="char:EOLhyphen"/>ledge.</p>
+               <p>Fourthly, they are igno<g ref="char:EOLhyphen"/>rant of the sweetnesse that is in Christ; <hi>surely if they had tasted how good the Lord is, as new-born babes they would de<g ref="char:EOLhyphen"/>sire the sincere milk of the Word,
+<note place="margin">Pet. 2.2, 3</note> that they might grow thereby.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:120712:13"/>
+               <head>ƲSE, EXHORT. In refe<g ref="char:EOLhyphen"/>rence to the Morning-Exercise, which is to begin shortly in this place.</head>
+               <p>
+                  <hi>Be swift to hear.</hi> Take heed of neglecting the oppor<g ref="char:EOLhyphen"/>tunities, which Provi<g ref="char:EOLhyphen"/>dence doth so graciously present unto you.</p>
+               <p>Say not in your hearts, Is it not enough that we have the Word preach't unto us twice every Lords day? we need not, we cannot spare so much time from our particular cal<g ref="char:EOLhyphen"/>lings, every morning for a moneth together.</p>
+               <p>Brethren, I hope this Ex<g ref="char:EOLhyphen"/>ercise will be so managed,
+<pb n="14" facs="tcp:120712:14"/>that it will be no prejudice to your civil affaires. The
+<note n="*" place="margin">Begin<g ref="char:EOLhyphen"/>ning at se<g ref="char:EOLhyphen"/>ven.</note> earlinesse and
+<note n="*" place="margin">And end<g ref="char:EOLhyphen"/>ing at eight, half an houre spent in o<g ref="char:EOLhyphen"/>pening Scripture, and half an houre in prayer.</note> brevity will much prevent that in<g ref="char:EOLhyphen"/>convenience, I know there be cases and persons, to whom a constant attendance may be an impossibility. As to those, we know who hath said, <hi>I will have mercy, and not sacrifice.</hi> But where an houre may be gained either by <hi>fore-providence,</hi> or <hi>after-industry,</hi> certainly it can<g ref="char:EOLhyphen"/>not be better improved, then for such a soul-advan<g ref="char:EOLhyphen"/>tage.</p>
+               <p>Therefore I beseech you consider, <label type="milestone">
+                     <seg type="milestoneunit">Motives </seg>
+                  </label>
+               </p>
+               <p n="1">1. <hi>It is a blessed opportuni<g ref="char:EOLhyphen"/>ty to begin your dayes work with God.</hi> The very Hea<g ref="char:EOLhyphen"/>thens could say, <hi>A Jove princi<g ref="char:EOLhyphen"/>pium;</hi> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <hi>We
+<pb n="15" facs="tcp:120712:14"/>should begin with God.</hi> It is good to dedicate the <hi>first<g ref="char:EOLhyphen"/>fruits</hi> of the day to God; <hi>in whom we live, move, and have our being.</hi>
+               </p>
+               <p n="2">2. <hi>It is the Ministers duty to be ready to preach in season &amp; out of season;</hi> that is,
+<note place="margin">2 Tim. 4.1, 2.</note> on ordinary and extraordinary seasons of preaching the Gospel, on the <hi>Lords day,</hi> and on <hi>our days,</hi> &amp; therfore surely it is the peo<g ref="char:EOLhyphen"/>ples duty to hear in season and out of season. That Com<g ref="char:EOLhyphen"/>mand which enjoyns <hi>preach<g ref="char:EOLhyphen"/>ing,</hi> doth of necessity imply <hi>hearing</hi> also; that Command which opens our mouthes, must also open your eares. If the Preacher be in his place, and you not in yours, it will be but an uncomfort<g ref="char:EOLhyphen"/>able account for you in the day of Christ, when the <hi>ser<g ref="char:EOLhyphen"/>vant</hi>
+                  <pb n="16" facs="tcp:120712:15"/>shall say as his <hi>Lord</hi> did, <hi>I would have gathered you, but you would not;</hi> I would have preach't, but they would not hear. <hi>We would have heal<g ref="char:EOLhyphen"/>ed Babyloa,
+<note place="margin">
+                        <hi>Tu vis er<g ref="char:EOLhyphen"/>rare, tu vis perire, ego nolo.</hi> Aug.</note> but she would not be henled:</hi> Thou wouldest erre, and thou wouldest pe<g ref="char:EOLhyphen"/>rish, but I would not.</p>
+               <p n="3">3. Consider, <hi>this is a special season and opportunity of time-redemption.</hi> The duty en<g ref="char:EOLhyphen"/>joyned, <hi>Eph.</hi> 5.15. The <hi>me<g ref="char:EOLhyphen"/>taphor</hi> calls for it; the <hi>ar<g ref="char:EOLhyphen"/>gument</hi> calls for it.</p>
+               <p>The metaphor calls for it, it being taken from <hi>Mer<g ref="char:EOLhyphen"/>chants,</hi> who observe their markets, and buy while the Faire lasts: Or else from men who having morgaged their lands and estates, would gladly <hi>redeem,</hi> that is, buy them back again into their possession.</p>
+               <pb n="17" facs="tcp:120712:15"/>
+               <p> Christians, you have lost many seasons of hearing, you have morgaged many an houre to Satan, and to the world, and to your lusts. God now gives you an op<g ref="char:EOLhyphen"/>portunity of <hi>Redemption.</hi> This is, as it were, your spiritual <hi>Faire</hi> or <hi>Mart,</hi> that will last for a moneth together; Oh now redeem the time, buy in some of your lost houres.</p>
+               <p>The <hi>Argument</hi> calls for it; <hi>The dayes are evil,</hi> evil with <hi>sin,</hi> and evil with <hi>sor<g ref="char:EOLhyphen"/>row;</hi> evil in <hi>Church,</hi> and evil in <hi>State;</hi> evil <hi>abroad,</hi> and evil at <hi>home;</hi> evil with al sorts of men amongst us, from the high<g ref="char:EOLhyphen"/>est <hi>orb</hi> to the lowest <hi>cell,</hi> so evil, that it is not safe to say how evil; so that never did this Argument speak with a louder voice in the eares of
+<pb n="18" facs="tcp:120712:16"/>any people, since the Apo<g ref="char:EOLhyphen"/>stles time, then it doth in our eares.</p>
+               <p>This Exercise was set up while <hi>Leicester</hi> was besieg<g ref="char:EOLhyphen"/>ed, an evil time as we then thought: alas! the whole land <hi>now</hi> is besieged with feares and dangers round about; we are a very <hi>magor missabih,</hi> as once <hi>Pashur, Fear round about:</hi>
+                  <note place="margin">Jer. 20.3.</note> and our divisions ren<g ref="char:EOLhyphen"/>der us unable to help our selves.</p>
+               <p>
+                  <hi>England</hi> is another <hi>Ishma<g ref="char:EOLhyphen"/>el,</hi> every mans hand is against us, and our hand against e<g ref="char:EOLhyphen"/>very man. There is a storme upon the vessel, and the Mi<g ref="char:EOLhyphen"/>nisters cry out unto us, as the Ship-master to <hi>Jonas; What meanest thou, O sleeper? A<g ref="char:EOLhyphen"/>rise,
+<note place="margin">Jonah 1.6.</note> call upon thy God, &amp;c.</hi>
+               </p>
+               <p>If evil dayes be an argu<g ref="char:EOLhyphen"/>ment
+<pb n="19" facs="tcp:120712:16"/>to time-redemption; surely it is time for us to re<g ref="char:EOLhyphen"/>deem the time.</p>
+               <p>Know you not yet that <hi>England</hi> is destroyed. Surely it is <hi>tantùm non</hi> destroyed?</p>
+            </div>
+            <div type="part">
+               <head>Be swift to hear.</head>
+               <p>
+                  <hi>Now God seems to be co<g ref="char:EOLhyphen"/>ming towards us</hi> of this place. <label type="milestone">
+                     <seg type="milestoneunit">Motive. </seg>4</label> God cometh in the midst of us in an extraordinary man<g ref="char:EOLhyphen"/>ner, as <hi>Moses</hi> told the peo<g ref="char:EOLhyphen"/>ple, <hi>Exod.</hi> 19.10, 11. Oh prepare to meet thy God, O <hi>Sion:</hi> if you will not prepare to meet him coming towards you in a way of mercy and peace, how soon and how justly may ye be summon<g ref="char:EOLhyphen"/>ed to meet him in a way of judgement and wrath?</p>
+               <p>Fifthly, that may lead to
+<pb n="20" facs="tcp:120712:17"/>another sad consideration.</p>
+               <p>
+                  <hi>You little know how soon Gospel-seasons may be remo<g ref="char:EOLhyphen"/>ved.</hi>
+                  <note place="margin">Amos 8.11, 12.</note> God threatens a famine, <hi>not of bread or of water, but of hearing the Word of God;</hi> and the sad prognosticks of such a famine are upon us; scarcity of it in many places already, the Church-doores are shut up, and there is not so much as a chapter read in a whole Sabbath, in hundreds of Churches in <hi>England</hi> and <hi>Wales.</hi>
+               </p>
+               <p>Among our selves is found the highest contempt of the Gospel, and the Gospel-Mini<g ref="char:EOLhyphen"/>stery, that ever was among a people:
+<note place="margin">2 Cor. 36.16.</note> which is the sin <hi>with<g ref="char:EOLhyphen"/>out remedie.</hi> A sin <hi>without</hi> remedy, because it is a sin <hi>a<g ref="char:EOLhyphen"/>gainst</hi> remedie. If such times should be hasting upon us,
+<pb n="21" facs="tcp:120712:17"/>yet God deals with us in spi<g ref="char:EOLhyphen"/>rituals, as once for <hi>Egypt</hi> in temporals; he gives us <hi>yeares of plenty,</hi> before he bring up<g ref="char:EOLhyphen"/>on us the black yeares of fa<g ref="char:EOLhyphen"/>mine. Now therefore who is that wise <hi>Joseph,</hi> who will lay up in these yeares of plenty before the days of fa<g ref="char:EOLhyphen"/>mine come? <hi>Oh be swift to hear,</hi> treasure up spiritual corne now,
+<note place="margin">Mat. 13.52.</note> that you may in times of want <hi>be like the good Scribe instructed unto the Kingdom of Heaven, bring<g ref="char:EOLhyphen"/>ing out of your treasures things both new and old.</hi>
+               </p>
+               <p>Sixthly, to be sure, <label type="milestone">
+                     <seg type="milestoneunit">Motive. </seg>6</label>
+                  <hi>loath<g ref="char:EOLhyphen"/>ing is a fore-runner of losing the Gospel;</hi> when the Israe<g ref="char:EOLhyphen"/>lites began to loath the Man<g ref="char:EOLhyphen"/>na, which fell every morn<g ref="char:EOLhyphen"/>ing round about their <hi>tents;</hi> it continued not long. And
+<pb n="22" facs="tcp:120712:18"/>it is observed that a little be<g ref="char:EOLhyphen"/>fore the French Massacre, Protestants were cloy'd with the Word. Formerly people would have run far and near to have enjoyed such oppor<g ref="char:EOLhyphen"/>tunities; if now you be afraid of it, or despise it, it will be a sad presage that judgement is not far off.</p>
+               <p>Seventhly, let the zeal and forwardnesse of other places provoke you. Oh, how have I seen the Con<g ref="char:EOLhyphen"/>gregations within the City thronged? how is this Morn<g ref="char:EOLhyphen"/>ing-Exercise sued for and begg'd for, by Ministers and their well-affected people, with greatest importunity, as great Charters are wont to be begg'd and sued for to Princes by their subjects! And I blesse God to see it: Oh
+<pb n="23" facs="tcp:120712:18"/>let not this remain as a blot upon <hi>Giles</hi> in the fields, that this Ark was brought home to your doores, and you said, as it were, it should not come into your habitation; that this Morning-Exercise was brought into this place, and the pewes were empty; the inhabitants of this Pa<g ref="char:EOLhyphen"/>rish did not regard it.</p>
+               <p>The Apostle useth the same argument in another case upon the <hi>Corinthians,</hi> 2 <hi>Cor.</hi> 8.8.</p>
+               <p>Oh let not the zeal and affection of other people rise up in judgement against this end of the town and con<g ref="char:EOLhyphen"/>demn you.</p>
+               <p>Eighthly, <label type="milestone">
+                     <seg type="milestoneunit">Motive. </seg>8</label> you will do as much for your bodies, and outward man, and more too. Were rare <hi>sights</hi> to be
+<pb n="24" facs="tcp:120712:19"/>seen here every morning, for a moneth or two together, or were some <hi>rich doles</hi> to be distributed, there would be such throngs of people, that the walls and windows would not contain them. Christians, here are the <hi>visi<g ref="char:EOLhyphen"/>ons of God</hi> to be seen; here are the <hi>unsearchable riches</hi> of Christ to be dispensed. Oh evidence to your selves and others, that you believe you have immortal soules, more worth then ten thousand worlds.</p>
+               <p>Ninethly, the body veri<g ref="char:EOLhyphen"/>ly may be a gainer as well as your soules; these morning<g ref="char:EOLhyphen"/>visits may be <hi>physick</hi> to your <hi>bodies,</hi> as well as <hi>food</hi> to your <hi>soules.</hi>
+               </p>
+               <p>Tenthly, however let me admonish you of this, that a
+<pb n="25" facs="tcp:120712:19"/>single voluntary omission may prove greatly prejudici<g ref="char:EOLhyphen"/>al to your spiritual good. Observe that passage in the Gospel-story:
+<note place="margin">John 23.24. Luke 25.</note>
+                  <hi>But Thomas one of the twelve was not with them when Jesus came,</hi> what the cause of his absence was, we reade not; sure I am this single absence was like to have cost him dear, even his faith: they tell him, <hi>ver.</hi> 25. <hi>We have seen the Lord:</hi> but hear what a peremptory re<g ref="char:EOLhyphen"/>ply he makes, <hi>Except I shall see in his hands the print of the nailes,
+<note place="margin">Verse 25.</note> and put my finger into the print of his nailes, and thrust my hands into his side. I will not beleeve.</hi> Had Christ taken him at his word, <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> might have for ever be<g ref="char:EOLhyphen"/>wailed his absence from the meeting of the disciples in
+<pb n="26" facs="tcp:120712:20"/>eternal flames.</p>
+               <p>Eleventhly, in the next place let me tell you thus much. God hath been plea<g ref="char:EOLhyphen"/>sed to make use of this morn<g ref="char:EOLhyphen"/>ing-Exercise, for great ad<g ref="char:EOLhyphen"/>vantage and good to many soules, since the first erecting of it. In times of feares, ma<g ref="char:EOLhyphen"/>ny that have come trembling and dismayed with evil ti<g ref="char:EOLhyphen"/>dings, have dismist with comfort and encourage<g ref="char:EOLhyphen"/>ment; their hands have been strengthened, and their hearts have been encoura<g ref="char:EOLhyphen"/>ged in the Lord. Many that have been dubious and stag<g ref="char:EOLhyphen"/>gering about their way, have been setled and resolved: some have drawn their first spiritual breath in this aire, others have been preserved and secured, in the sad Apo<g ref="char:EOLhyphen"/>stasy
+<pb n="27" facs="tcp:120712:20"/>from Anabaptisme, Antinomianisme, Antiscri<g ref="char:EOLhyphen"/>pturisme, Atheisme, Ran<g ref="char:EOLhyphen"/>tisme of these times, and that which hath been the cause and source of them all, <hi>boundlesse liberty</hi> for e<g ref="char:EOLhyphen"/>very Congregation to <hi>hold,</hi> and <hi>hold forth</hi> what they will, <hi>without giving an ac<g ref="char:EOLhyphen"/>compt to any.</hi> I say, God hath made use of it for the stay of Apostasy, and the cementery of many Christi<g ref="char:EOLhyphen"/>ans, in the truth and unity of the Gospel.</p>
+               <p>Who knows what work God hath for this Morning-Exercise in this place? Only withdraw not your selves out of Christs rode, as I shew<g ref="char:EOLhyphen"/>ed you in the coherence of the words, <hi>vers.</hi> 18. God honours the Word with his
+<pb n="28" facs="tcp:120712:21"/>blessing, do you honout it with your attendance.</p>
+               <p>Twelfthly and lastly, say not, We may have future op<g ref="char:EOLhyphen"/>portunities, what need of such present importunity?</p>
+               <p>Nay, my brethren, but death may quickly cut off hat reckoning; your life may yet end, before the end of the Morning-Exercise. Oh lay in for eternity: <hi>In this your day know the things of your peace, before they be hid from your eyes:</hi> while ye have the light come to the light, our dayes are swift, as swift as an Eagle; <hi>Oh be you swift to hear.</hi>
+               </p>
+               <p>I should now come to give you some Rules or Cautions about this service. But of this in the next.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:120712:21"/>
+               <head>
+                  <hi>MAY</hi> 1. 1655. <hi>The first Morning-Exercise.</hi>
+               </head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Jam. 1.19.</hi>
+                     </bibl>
+                     <p>Be swift to hear.</p>
+                  </q>
+               </epigraph>
+               <p>Doctr. <hi>It is the duty of Christians to be swift to hear.</hi>
+               </p>
+               <p>The last Lords day in the afternoone I opened the <hi>Doctrine,</hi> and laid you down the <hi>grounds</hi> of the duty; and in the Use of Exhortation, gave you certain Mo<g ref="char:EOLhyphen"/>tives to presse this ne<g ref="char:EOLhyphen"/>cessary duty upon you.</p>
+               <p>I being to begin this morning-work; shall now prosecute the same Exhort<g ref="char:EOLhyphen"/>ation, and now by Gods as<g ref="char:EOLhyphen"/>sistance give you</p>
+               <div type="section">
+                  <pb n="30" facs="tcp:120712:22"/>
+                  <head>Some Rules and Cautions for guiding you in your attendance upon this ser<g ref="char:EOLhyphen"/>vice,
+<note place="margin">There be<g ref="char:EOLhyphen"/>ing but halfe an houre al<g ref="char:EOLhyphen"/>lowed for the Word of Exhor<g ref="char:EOLhyphen"/>tation.</note> as the shortnesse of the time will permit; that I may not be injurious to your affaires in your particular Callings.</head>
+                  <p>In the first place,
+<note place="margin">1. <hi>Rule or Caution.</hi> Gal. 4.18.</note>
+                     <hi>come con<g ref="char:EOLhyphen"/>stantly;</hi> you know who said, <hi>It is good to be zeal<g ref="char:EOLhyphen"/>ously affected alwayes in a good thing.</hi> It is good, and there is a <hi>blessing</hi> in it; <hi>Bles<g ref="char:EOLhyphen"/>sed is the man that heareth me,</hi> (saith the Wisdome of God) <hi>watching daily at my gates, waiting at the posts of my doores.</hi> Brethren, is not <hi>your heavenly Fathers blessing</hi> worth the coming for every morning? When torpor and sluggishnesse would detain
+<pb n="31" facs="tcp:120712:22"/>you in your beds, or dis<g ref="char:EOLhyphen"/>pensable occasions divert you, Oh remember, bles<g ref="char:EOLhyphen"/>sings are dispensing in your Fathers house, run in, and cry, <hi>Blesse me, even me also, Oh my Faeher.</hi>
+                  </p>
+                  <p>But secondly, <label type="milestone">
+                        <seg type="milestoneunit">Rule. </seg>2</label> you that cannot come your selves, <hi>send your servants and chil<g ref="char:EOLhyphen"/>dren;</hi> that they may get a share in the blessing, and that their soules may blesse you in the time to come; yea, and blesse the Lord that ever the Morning-Exercise came among you: behold, they may be dismissed in due time, to minister unto you in their places. And let not the labouring man think it is an houre lost, that is spent in this service, if it may be borrowed without irrepa<g ref="char:EOLhyphen"/>rable
+<pb n="32" facs="tcp:120712:23"/>prejudice, either to o<g ref="char:EOLhyphen"/>thers or your selves: behold, the Word and Prayer shall sweeten and sanctifie the whole dayes travel, and the houre you have lent to the Lord, will he pay again with advantage.</p>
+                  <p>Thirdly, <label type="milestone">
+                        <seg type="milestoneunit">Rule. </seg>3</label> come not to this Morning-work, without some liftings up of your hearts to God before, for his presence and blessing; if thou hast not time to make a long prayer, yet make a short prayer, send up some lively ejaculation,
+<note place="margin">Dicuntur fratres in Egyptocre<g ref="char:EOLhyphen"/>bras eja<g ref="char:EOLhyphen"/>culationes emittere.</note> some warme<g ref="char:EOLhyphen"/>breathings to God, for his presence with the Minister and people, his blessing on the Ordinance for thy selfe aad others. Pray over that Promise, <hi>Exod.</hi> 20.24. <hi>In all places where I record my Name,
+<pb n="33" facs="tcp:120712:23"/>I will meet thee and blesse thee.</hi> Oh say with <hi>Mary, Behold, the servant of the Lord, be it unto me according to thy Word;</hi> not the Ordi<g ref="char:EOLhyphen"/>nance only, Lord, but thy <hi>Presence</hi> in the Ordinance; The Word, and thy <hi>bleffing</hi> on the Word; <hi>Oh meet me, and blesse me for Christs sake.</hi>
+                  </p>
+                  <p>If Christians would <hi>pray more,</hi> before they come to the Word, they would <hi>thrive better;</hi> you <hi>receive not, be<g ref="char:EOLhyphen"/>cause you ask not;</hi> the Pro<g ref="char:EOLhyphen"/>mise is liberal,
+<note place="margin">Ps. 81.10.</note>
+                     <hi>Open thy mouth wide, and I will fill it:</hi> Alas, we come to Ordi<g ref="char:EOLhyphen"/>nances, with our mouthes shut: God may bespeak us, as once the Apostle his <hi>Co<g ref="char:EOLhyphen"/>rinthians;
+<note place="margin">2 Cor. 6.11, 12.</note> Ye are not straiten<g ref="char:EOLhyphen"/>ed in me, but ye are straiten<g ref="char:EOLhyphen"/>ed in your selves.</hi> You do not
+<pb n="34" facs="tcp:120712:24"/>finde God when ye come, because ye do not seek him before you come: Christi<g ref="char:EOLhyphen"/>ans, is not God worth the seeking? <hi>Seek the Lord, and seek his strength, and seek his face continually.</hi>
+                  </p>
+                  <p>God faith unto you, <hi>Seek ye my face;</hi> let your heart e<g ref="char:EOLhyphen"/>cho back again to God; <hi>Thy face,
+<note place="margin">Ps. 27.8.</note> Lord, will I seek.</hi>
+                  </p>
+                  <p>Fourthly, <label type="milestone">
+                        <seg type="milestoneunit">Rule. </seg>4</label> come to this Morning-Exercise, <hi>without respect of persons.</hi> The usu<g ref="char:EOLhyphen"/>al question is, (I do not like it,) <hi>Who preacheth to morrow morning?</hi> And that is not all, but if the man suit not the fancy, the wantonnesse of some riseth to that boldness, that they fear not to despise both him and the Ordinance. Tush, I would not go over the threshold to hear such
+<pb n="35" facs="tcp:120712:24"/>a man; Brethren, this ought not so to be, we should come for the Ordinance-sake, and not for the mans sake. In this sense,
+<note place="margin">Jam, 2.1.</note>
+                     <hi>we should not have the faith of our Lord Je<g ref="char:EOLhyphen"/>sus Christ, the Lord of glory, with respect of persons.</hi>
+                  </p>
+                  <p>It is to be feared, the de<g ref="char:EOLhyphen"/>licacy of these times is a fore-runner of famine; and they that for wantonnesse do now cry, <hi>Whom shall we hear to day?</hi> may ere long cry to for want, <hi>Oh where shall we heare, whither shall we go to bear a faithful Mi<g ref="char:EOLhyphen"/>nister?</hi>
+                  </p>
+                  <p>Brethren, let me freely, speak unto you. I am a<g ref="char:EOLhyphen"/>fraid, that the most of those dislikes, which you enter<g ref="char:EOLhyphen"/>tain against some Ministers of the Gospel; your heads,
+<pb n="36" facs="tcp:120712:25"/>hearts and consciences, wit<g ref="char:EOLhyphen"/>nessing to their fidelity,) are but the groundlesse prejudi<g ref="char:EOLhyphen"/>ces, and sinful distempers of your own hearts.</p>
+                  <p>
+                     <hi>Sampson,</hi> when he had got his great victory, threw a<g ref="char:EOLhyphen"/>way his jaw-bone, but when slain almost with thirst, God sends him to his jaw-bone a<g ref="char:EOLhyphen"/>gain; ye are not now full, and <hi>Provender, as we say, pricks you;</hi> if a spiritual drought come, you would be glad of the worst of your despised Ministers. In the mean time, let me tell you, He is a sorry Minister indeed, (if I say faithful,) by whom you may not get something worth your paines in hearing, were your heart in a mortifi<g ref="char:EOLhyphen"/>ed gracious frame.</p>
+                  <p>I have heard some emi<g ref="char:EOLhyphen"/>nent
+<pb n="37" facs="tcp:120712:25"/>Christians acknowledge, that after some disputes whe<g ref="char:EOLhyphen"/>ther they should hear such and such a man, because of some private jealousies up<g ref="char:EOLhyphen"/>on their spirits, yet determi<g ref="char:EOLhyphen"/>ned by this consideration: <hi>I go for the Ordinance sake, not for the mans sake;</hi> God hath made it the most seasonable Word, that ever they heard.</p>
+                  <p>The stories themselves would be too long. And therefore, Christians, look to your own hearts; and if the Minister want quicknesse in preaching, do thou make it up in the lively actings of thine own grace, lest other<g ref="char:EOLhyphen"/>wise it appears, it is <hi>parts</hi> that act thee, and not <hi>spirituality</hi> and <hi>soundnesse</hi> of matter.</p>
+                  <p>In the next place, <label type="milestone">
+                        <seg type="milestoneunit">Rule. </seg>5</label>
+                     <hi>Observe God (therefore) in the variety
+<pb n="38" facs="tcp:120712:26"/>of the gifts and graces of his Ministers:</hi> and learn to ad<g ref="char:EOLhyphen"/>mire the <hi>manifold Wisdom of God.</hi>
+                  </p>
+                  <p>
+                     <hi>Corinth</hi> hath bequeathed her wantonnesse to <hi>London,</hi> we <hi>are puffed up for one a<g ref="char:EOLhyphen"/>gainst another:</hi>
+                     <note place="margin">1 Cor. 4 6.</note> for one <hi>Mi<g ref="char:EOLhyphen"/>nister of the Gospel</hi> against an<g ref="char:EOLhyphen"/>other; we cannot commend one, but we must despise an<g ref="char:EOLhyphen"/>other. But we should re<g ref="char:EOLhyphen"/>member, that the Spirit is the fountain of all their gifts and graces, how different soever; it is the excellencies of these starres, that though one star differ from another in glory, yet God made them all; and <hi>he calls them all by their names.</hi> The H. Ghost is called the <hi>se<g ref="char:EOLhyphen"/>ven Spirits of God,</hi> Rev. 1.4. for his manifold and sun<g ref="char:EOLhyphen"/>dry operations, so that you
+<pb n="39" facs="tcp:120712:26"/>cannot easily despise the gifts of any <hi>that ars sincere,</hi> but by interpretation you judge the Spirit, and despise the Spirit: as it is said of the poore, <hi>Prov.</hi> 17.5.</p>
+                  <p>This you may observe, (and it would help you) that the meanest of the faithful Ministers of the Gospel hath some excellency above his brethren; as in the natural body, every member hath an usefulnesse, an honour proper to it self,
+<note place="margin">1 Cor. 12.25.</note> that so there might be no schisme in the body: and many times God is pleased to use the meaner gift for the greater service, because he delights to ho<g ref="char:EOLhyphen"/>nour sincerity above <hi>parts.</hi> Come then Christians,
+<note place="margin">1 Cor. 15.10.</note> to the word, with your expectations upon God, and not upon the
+<pb n="40" facs="tcp:120712:27"/>Preacher. <hi>You may easily o<g ref="char:EOLhyphen"/>ver-expect the creature, you can never over-expect God.</hi>
+                  </p>
+                  <p>Sixthly, <label type="milestone">
+                        <seg type="milestoneunit">Rule. </seg>6</label>
+                     <hi>look to your aimes,</hi> and come to get your hearts warmed every morning, by the fire of the Sanctuary: la<g ref="char:EOLhyphen"/>bour to hear, and pray your hearts into aspiritual and an heavenly frame, <hi>that you may walk with God all the day long.</hi> Bring your hearts to God every morning, and desire him to winde them up for you, and then to keep his hand upon the maine spring all the day long, or else it will quickly run down again.</p>
+                  <p>Seventhly, <label type="milestone">
+                        <seg type="milestoneunit">Caution. </seg>7</label>
+                     <hi>If God please to kindle any fire upon your hearts, take heed of letting it go out. Quench not the Spi<g ref="char:EOLhyphen"/>rit;</hi> quench not good mo<g ref="char:EOLhyphen"/>tions,
+<pb n="41" facs="tcp:120712:27"/>by letting out your hearts inordinately to the things of the world.</p>
+                  <p>If God work a good frame in thee, take heed of any thing that may discom<g ref="char:EOLhyphen"/>pose it. Little sins first di<g ref="char:EOLhyphen"/>stemper, and then great sins come in and destroy.
+<note place="margin">Pro. 4.23.</note> Of all keeping keep thy heart.</p>
+                  <p>Take heed, when ye have <hi>begun in the Spirit,</hi> that you <hi>do not end in the flesh.</hi> Keep this upon your hearts as an antidote against temptation. <hi>I have been with God this morning,</hi> and how shall I do this great wickednesse, and profane my approaches to God? <hi>I have washed my feet, how shall I defile them?</hi> Peo<g ref="char:EOLhyphen"/>ple are prone to conceive themselves discharged, when they have been in duty; not
+<pb n="42" facs="tcp:120712:28"/>much better then the Slut in the <hi>Proverbs;
+<note place="margin">Prov. 7.14.—18.</note> I have peace-of<g ref="char:EOLhyphen"/>ferings with me, this day I have paid my vowes, come let us take our fill of love, &amp;c.</hi> But remember this an <hi>harlotry Lo<g ref="char:EOLhyphen"/>gick,</hi> to put <hi>duty</hi> into the <hi>premisses,</hi> and <hi>sin</hi> into the <hi>conclusion;</hi> The Scripture teacheth otherwise. <hi>Let e<g ref="char:EOLhyphen"/>very one that nameth the Name of Christ,
+<note place="margin">2 Tim. 2.19.</note> depart from iniquity.</hi>
+                  </p>
+                  <p>And <hi>if you call on the Fa<g ref="char:EOLhyphen"/>ther,
+<note place="margin">1 Pet. 1.17</note> &amp;c. passe the time of your pilgrimage in fear.</hi> If ye pray, look to your conversa<g ref="char:EOLhyphen"/>tion; <hi>Holy duties are en<g ref="char:EOLhyphen"/>gagement to an holy life.</hi> Pray<g ref="char:EOLhyphen"/>er is an implicit vow.</p>
+                  <p>Say therefore, when you come from duties, publick or private; <hi>Thy vowes are upon me,
+<note place="margin">Ps. 56.12.</note> I will render praises unto thee.</hi>
+                  </p>
+                  <pb n="43" facs="tcp:120712:28"/>
+                  <p> In the eigth place, <label type="milestone">
+                        <seg type="milestoneunit">Caution. </seg>8</label>
+                     <hi>Let not the Morning-Exercise pay the score of family or closet<g ref="char:EOLhyphen"/>duties.</hi> It is unworthy of a Christian spirit, to think to save charges by attendance upon publick Ordinancer. Remember that under the Law,
+<note place="margin">Numb. 28 10, 15.</note> the Sabbathssacrifice was not to discharge the morning-sacrifice.</p>
+                  <p>
+                     <hi>This is the burnt-offering of every-Sabbath, besides the con<g ref="char:EOLhyphen"/>tinual burnt-rffering, and his meat-offering;</hi> and so, <hi>v.</hi> 15, <hi>&amp;c.</hi>
+                  </p>
+                  <p>You are fitter for your fa<g ref="char:EOLhyphen"/>mily-duties, and closet-de<g ref="char:EOLhyphen"/>votion, when you have warmed your hearts in com<g ref="char:EOLhyphen"/>munion with God in his publick worship, when you come home therfore, pray o<g ref="char:EOLhyphen"/>ver what you have heard, and what you have prayed in the
+<pb n="44" facs="tcp:120712:29"/>publick Assemblies.</p>
+                  <p>Ninethly, <label type="milestone">
+                        <seg type="milestoneunit">Caution. </seg>9</label>
+                     <hi>Put every duty into practice as you hear them;</hi> live your Sermon, that day.</p>
+                  <p>Tenthly and lastly, <label type="milestone">
+                        <seg type="milestoneunit">Caution. </seg>10</label>
+                     <hi>Ac<g ref="char:EOLhyphen"/>count the morning-services your priviledge as well as your duty.</hi> Look upon it not as your <hi>burden,</hi> but as your <hi>blessing;</hi> what would some poor Christians give for one of these opportunities? Ma<g ref="char:EOLhyphen"/>ny Kings and righteous per<g ref="char:EOLhyphen"/>sons, as our Saviour saith, <hi>have desired to hear the things which you hear, and have not heard them, &amp;c.</hi> Surely the worst day in the week, is better to you then many Sab<g ref="char:EOLhyphen"/>baths, to many <hi>Churches</hi> of Jesus Christ.</p>
+                  <p>
+                     <hi>If once our advantages come to be our burdens, God can quickly unburden us;</hi> as
+<pb n="45" facs="tcp:120712:29"/>he threatens, <hi>Jer.</hi> 23. from the 33, to the end. Account the Word your priviledge, your honour, &amp; let your improve<g ref="char:EOLhyphen"/>ment witnesse your prizing of it; <hi>Study spiritual growth.
+<note place="margin">1 Pet. 2.2.</note> As new-born babes desire the sincere milk of the Word, that you may grow thereby.</hi> La<g ref="char:EOLhyphen"/>bour to get knowledge an<g ref="char:EOLhyphen"/>swerable to the meanes, and grace answerable to your knowledge. And so much for this time and this Text.</p>
+               </div>
+            </div>
+         </div>
+         <div type="sermon">
+            <pb facs="tcp:120712:30"/>
+            <pb n="47" facs="tcp:120712:30"/>
+            <head>A Concluding SERMON at the end of the <hi>Morning-Exercise,</hi> AT <hi>GILES</hi> in the <hi>FIELDS,</hi> On <hi>Wednesday, May</hi> 30. 1655.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JER. 35.15.</hi>
+                  </bibl>
+                  <p>I have sent also unto you all my servants the Prophets, rising up early, and sending them, saying, Return ye now every man from his evil way, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>THe words, they are a conviction of the infide<g ref="char:EOLhyphen"/>lity
+<pb n="48" facs="tcp:120712:31"/>and stubbornnesse of the Jewes. <hi>Jonadabs</hi> sonnes o<g ref="char:EOLhyphen"/>beyed their fathers com<g ref="char:EOLhyphen"/>mand, not to drink wine, &amp;c. <hi>verse</hi> 14. <hi>The words of Jonadab the sonne of Rechab, that he commanded his sons not to drink wine are performed, for unto this day they drink none, but obey their fathers commandment; Notwithstand<g ref="char:EOLhyphen"/>ing,</hi> saith God, <hi>I have spo<g ref="char:EOLhyphen"/>ken unto you, rising early and speaking, but ye hearkened not unto me.</hi> In the words you have these two parts.</p>
+            <p>First, Gods <hi>carriage</hi> and dealing towards the Jewes.</p>
+            <p>Secondly, <hi>their carriage to<g ref="char:EOLhyphen"/>wards God:</hi> Gods dealing with them, <hi>I have sent unto you all my servants the Pro<g ref="char:EOLhyphen"/>phets, &amp;c.</hi> Their dealing with God in the close of the
+<pb n="49" facs="tcp:120712:31"/>verse; <hi>but ye have not incli<g ref="char:EOLhyphen"/>ned your care, nor hearkened unto me.</hi>
+            </p>
+            <p>In the former part, Gods dealing with them, you have these eight particulars.</p>
+            <p n="1">1. Here's the means used, <hi>I have sent.</hi>
+            </p>
+            <p n="2">2. Here's the persons em<g ref="char:EOLhyphen"/>ployed, <hi>the Prophets,</hi> who are here described by their adjunct, <hi>my servants.</hi>
+            </p>
+            <p n="3">3. Their number, <hi>all my servants the Prophets.</hi>
+            </p>
+            <p n="4">4. Their diligence, <hi>they rose early.</hi>
+            </p>
+            <p n="5">5. Their importunity, <hi>I sent them. Sending them,</hi> what's that? that is, sending them time after time, morn<g ref="char:EOLhyphen"/>ing after morning, using all importunity.</p>
+            <p n="6">6. Their message, and that is <hi>Reformation,</hi> consist<g ref="char:EOLhyphen"/>ing
+<pb n="50" facs="tcp:120712:32"/>of two parts: 1. <hi>Cea<g ref="char:EOLhyphen"/>sing from evil.</hi> And 2. <hi>Mend<g ref="char:EOLhyphen"/>ing their ways; Returne ye e<g ref="char:EOLhyphen"/>very man from his evil wayes and amend your doings, and go not after other gods to serve them.</hi>
+            </p>
+            <p n="7">7. Here is the authority by which they came; <hi>I sent them, saith God.</hi>
+            </p>
+            <p n="8">8. Here you have the mo<g ref="char:EOLhyphen"/>tive upon which God doth woo and invite them to Re<g ref="char:EOLhyphen"/>formation: and that's no worse then their own good: <hi>that you might dwell in the land.</hi>
+            </p>
+            <p>The second part, namely their carriage towards God; 'tis very short, and very sad; <hi>but you have not hearkened, nor obeyed.</hi>
+            </p>
+            <p>Many Observations might be raised from the words;
+<pb n="51" facs="tcp:120712:32"/>But I shall put them altoge<g ref="char:EOLhyphen"/>ther into one Observation, and 'tis this, <hi>viz.</hi>
+            </p>
+            <p>Doctr. <hi>That God takes it very ill, and it is a high pro<g ref="char:EOLhyphen"/>vocation to his Majesty, when he vouchsafes the choicest and most precious meanes for a peo<g ref="char:EOLhyphen"/>ples Reformation and salvati<g ref="char:EOLhyphen"/>on, and yet under all those meanes they remain obstinate and irreformed.</hi>
+            </p>
+            <p>'Tis that you have com<g ref="char:EOLhyphen"/>plained frequently all along the Prophets in the very words of the Text. The same, though in other lan<g ref="char:EOLhyphen"/>guage, which God makes, <hi>Isa.</hi> 5. <hi>I did thus and thus to my vineyard, and what could I have done more? wherefore when I looked for grapes, it brought forth wilde grapes.</hi> God took it very ill after all
+<pb n="52" facs="tcp:120712:33"/>the cost, care and paines he had been at in his vineyard, his expectations were disap<g ref="char:EOLhyphen"/>pointed. 'Tis that which made Jesus Christ groan and weep over <hi>Jerusalem; O Je<g ref="char:EOLhyphen"/>rusalem, Jerusalem, how often would I have gathered thee, as a hen gathereth her chickens under her wings? but ye would not.</hi> I would, but you would not. God takes it very ill, and 'tis a high provocation to his Majestie, and well it may, if you consider these <hi>grounds.</hi>
+            </p>
+            <p>In such earriage of a peo<g ref="char:EOLhyphen"/>ple towards God, thus be<g ref="char:EOLhyphen"/>having himself towards them, there is</p>
+            <p n="1">1. <hi>Thetenders &amp; offers of grace and reconciliation neglected.</hi>
+            </p>
+            <p n="2">2. <hi>His love despised;</hi> there was never such overtcres
+<pb n="53" facs="tcp:120712:33"/>made to the Apostate-An<g ref="char:EOLhyphen"/>gels; neither <hi>hath he dealt so with every Nation, &amp;c.</hi> here is love despised.</p>
+            <p n="3">3. Here is <hi>Gods importuni<g ref="char:EOLhyphen"/>ty gain-said;</hi> God doth in<g ref="char:EOLhyphen"/>treat, God doth beseech, and God doth wait time after time and man proudly stands out.</p>
+            <p n="4">4. The <hi>Patience of God a<g ref="char:EOLhyphen"/>bused.</hi>
+            </p>
+            <p n="5">5. Vertually, <hi>the blood of Christ is trampled upon.</hi> And</p>
+            <p n="6">6. The Spirit resisted, which is the aggravation of all disobedience against the Word, <hi>Acts</hi> 7.51. <hi>Ye stiffe-necked and uncircumci<g ref="char:EOLhyphen"/>sed in heart and eares, ye have alwayes resisted the Holy Ghost.</hi> For the</p>
+            <p>
+               <hi>Ʋse.</hi> Is not this the very
+<pb n="54" facs="tcp:120712:34"/>case of <hi>England?</hi> may not God speak this text over <hi>England,</hi> for near a hundred yeares together, <hi>I have sent unto you all my servants the Prophets, rising up early and sending them?</hi> And is not this the case of this very place? were it only in refe<g ref="char:EOLhyphen"/>rence to this moneth, where the Morning-Exercise hath been among you: had God never sent a Prophet to you before, never dealt with you about your reformation and reconciliation before, will not the dispensations and dealings of God towards you, even in this moneth, be able to justifie God, and to leave you without excuse?</p>
+            <p>Christians, this day is this Scripture fulfilled in your eares on Gods part; For,
+<pb n="55" facs="tcp:120712:34"/>First, <hi>God hath sent;</hi> and whom hath he sent? he hath not sent <hi>gifted brethren</hi> among you, he hath not sent loose and debauched men of wretched principles, to speak to you the vision of their hearts; of whom God com<g ref="char:EOLhyphen"/>plaines, <hi>Jer.</hi> 23.21. <hi>I have not sent these Prophets, yet they ran, I have not spoken to them, yet they prophesied;</hi> But God hath sent to you his <hi>servants the Prophets;</hi> Pro<g ref="char:EOLhyphen"/>phets <hi>by calling,</hi> men set a<g ref="char:EOLhyphen"/>part for the work of the Go<g ref="char:EOLhyphen"/>spel by <hi>ministerial ordina<g ref="char:EOLhyphen"/>tion;</hi> he hath sent to you Ministers that have appro<g ref="char:EOLhyphen"/>ved themselves to be the ser<g ref="char:EOLhyphen"/>vants of God, that have ser<g ref="char:EOLhyphen"/>ved the designes and inter<g ref="char:EOLhyphen"/>ests of Christ faithfully in their places. And thirdly,
+<pb n="56" facs="tcp:120712:35"/>God hath sent all his ser<g ref="char:EOLhyphen"/>vants, <hi>i.e. in great number,</hi> (if we take in the next day,
+<note n="*" place="margin">The Fast at the con<g ref="char:EOLhyphen"/>cluding of the mnethly-Exercile.</note> which we hope to enjoy) a<g ref="char:EOLhyphen"/>bove thirty Ministers God hath sent among you this moneth. Fourthly, Consi<g ref="char:EOLhyphen"/>der <hi>their diligence, rising up early,</hi> you have been invited out of your beds into Gods presence; the first breath you have breathed in the morning, hath been in Gods Sanctnary. Fifthly, they have used <hi>great importunity, Sending,</hi> he hath sent them, they have doubled their pains, trod upon the heeles one of another, every man hath drawn out his bowels a<g ref="char:EOLhyphen"/>mong you, spent their spirits, they have preached as if they should never preach again. And Sixthly, what hath their
+<pb n="57" facs="tcp:120712:35"/>
+               <hi>message</hi> been? it hath been to <hi>Reformation,</hi> that you would now <hi>turn to God;</hi> their Texts and Sermons have been nothing else but <hi>Ex<g ref="char:EOLhyphen"/>hortations, Motives</hi> and <hi>Meanes</hi> to Reformation, for the rolling away, and remo<g ref="char:EOLhyphen"/>ving hinderances and ob<g ref="char:EOLhyphen"/>structions out of your way. To this end, let me helpe your memories by way of a summary rehearsal of their morning-labours among you, which is the chiefest desigue of this concluding Exer<g ref="char:EOLhyphen"/>cise.</p>
+            <p>The first was but a prepa<g ref="char:EOLhyphen"/>ratory to all the rest,
+<note place="margin">The first morning.</note> it was but like the voice of <hi>John Ba<g ref="char:EOLhyphen"/>ptist in the wildernesse, prepa<g ref="char:EOLhyphen"/>ring the way of the Lord,</hi> on<g ref="char:EOLhyphen"/>ly some brief <hi>directions</hi> how
+<pb n="58" facs="tcp:120712:36"/>you should <hi>hear,</hi> and how you should artend upon the Morning-Exercise, that it might be of use and advan<g ref="char:EOLhyphen"/>tage to your soules.</p>
+            <p>The second he comes,
+<note place="margin">The second morning.</note> and from <hi>Isa.</hi> 22.12. <hi>In that day did the Lord God of hostes call to weeping, and to mourning, and to baldnesse, and to girding with sackcloth.</hi> He gave you this observation.</p>
+            <p>
+               <hi>Doct. That the time of Gods incensed anger should be the time of the sinners hu<g ref="char:EOLhyphen"/>miliation.</hi>
+            </p>
+            <p>Such is his abundant mer<g ref="char:EOLhyphen"/>cy, that he calls men to re<g ref="char:EOLhyphen"/>pentance before he break in upon them by his judge<g ref="char:EOLhyphen"/>ments. He shoots off his
+<pb n="59" facs="tcp:120712:36"/>
+               <hi>warning pieces,</hi> before he gives fire to his <hi>murdering pieces. In that day the Lord did call;</hi> how doth he call? he calls outwardly, inwardly.</p>
+            <p>Outwardly, he calls by his <hi>Word;</hi> every Ser<g ref="char:EOLhyphen"/>mon is a call, every cha<g ref="char:EOLhyphen"/>pter is a call, every verse is a call. He calls by his <hi>mer<g ref="char:EOLhyphen"/>cies,</hi> all your mercies are so many calls to obedience. He cals by his <hi>judgments,</hi> even the <hi>Rod</hi> hath a voice; and where the <hi>rod</hi> hath a voice, we should have an eare. <hi>Hear the rod.</hi>
+            </p>
+            <p>He calls <hi>inwardly,</hi> by the <hi>stirrings and impulses of his own Spirit,</hi> and therefore the duty was urged upon you by these heart melting <hi>Arguments.</hi> 1. Warning ne<g ref="char:EOLhyphen"/>glected will make vengeance
+<pb n="60" facs="tcp:120712:37"/>most furious. 2. Slighting of judgement, is the greatest judgement that can befall a people. 3. It argues horri<g ref="char:EOLhyphen"/>ble pride. 4 Desperate se<g ref="char:EOLhyphen"/>curity. And, 5. 'Tis attended upon with such anger and wrath, as the tongue of an Angel is not able to speak, nor the heart of man able to conceive; <hi>Because I have cal<g ref="char:EOLhyphen"/>led and you would not hearken, you shall call, and I will not haerken, &amp;c.</hi> Prov. 1.24.</p>
+            <p>The third comes,
+<note place="margin">The third morning.</note> and sets sorth to you (as it were) the <hi>nature</hi> and the <hi>condition</hi> of such a people, as <hi>neglect Gods Call,</hi> from <hi>Jer.</hi> 5.4. <hi>I said, Surely these are poor, they are foolish; for they know not the way of the Lord, nor the judg<g ref="char:EOLhyphen"/>ments of their God.</hi> And
+<pb n="61" facs="tcp:120712:37"/>from thence he gives you this sad <hi>Observation, viz.</hi>
+            </p>
+            <p>Doctr. <hi>That rebels are a poor and beggarly genera<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Let them be never so great and honourable, they are poor <hi>civilly,</hi> and poor <hi>spiritually;</hi> they are poor <hi>ci<g ref="char:EOLhyphen"/>villy.</hi>
+            </p>
+            <p n="1">1. They are poor <hi>antecedent<g ref="char:EOLhyphen"/>ly,</hi> for the most part the lowest of people are the worst of people. It was the rabble rout that was gather<g ref="char:EOLhyphen"/>ed together against <hi>Iesus Christ,</hi> in <hi>Psal.</hi> 2.</p>
+            <p n="2">2. Poor <hi>concomitantly;</hi> usually they think their po<g ref="char:EOLhyphen"/>verty will bear them out in a<g ref="char:EOLhyphen"/>ny wickednesse.</p>
+            <p n="3">3. They are poor <hi>conse<g ref="char:EOLhyphen"/>quently.</hi> Poverty is their judgement. Many time; God
+<pb n="62" facs="tcp:120712:38"/>doth blast their estates, and sends a worme to eat out the bottome of their gourds. God doth punish rebellion with beggery many times, and blast mens estates to chastise the pride of their hearts.</p>
+            <p>And then they are poor <hi>spiritually,</hi> poor in their <hi>In<g ref="char:EOLhyphen"/>tellectuals;</hi> ignorance is the poverty of the understand<g ref="char:EOLhyphen"/>ing: wicked men are not worth one dram of saving knowledge; they are poor in <hi>grace,</hi> they think <hi>themselves rich, that they abound in goods, and want nothing,</hi> and know not that they are wretched, and miserable, and poor, and blinde, and na<g ref="char:EOLhyphen"/>ked, <hi>Rev.</hi> 3.17. 'Tis rebel<g ref="char:EOLhyphen"/>lion only that makes men soule-poor, spiritually-poor, irremedilesly-poor, ever<g ref="char:EOLhyphen"/>lastingly
+<pb n="63" facs="tcp:120712:38"/>poor.</p>
+            <p n="4">4.
+<note place="margin">The fourth morning.</note> The fourth (as if there had been in consultation with the former, how to me<g ref="char:EOLhyphen"/>thodize their discourses) He prescribes a cure to the former evil, and shewes the way how a Christian may become rich, and that is by getting interest in Christ. And from</p>
+            <p>
+               <hi>Phil.</hi> 1.21. <hi>To me to live is Christ, and to die is gain;</hi> he gives you these two Observations.</p>
+            <p>Doctr. 1. <hi>That Christ is the life of a Believer.</hi>
+            </p>
+            <p n="2">2. <hi>That to whom Christ is life, death will be gain.</hi>
+            </p>
+            <p>Christ is the life of a be<g ref="char:EOLhyphen"/>liever, <hi>Naturally, Spiritually, Eternally;</hi> all this by vertue
+<pb n="64" facs="tcp:120712:39"/>of union with him, and from thence he inferres,
+<list>
+                  <item>1. The preciousaesse of a Christian; Christ is his life.</item>
+                  <item>2. The duty of Christians, to be willing to venture their lives for Christ: since Christ is their life.</item>
+                  <item>3. The happinesse of a believer, he hath a Christ in him. <hi>Christ in you the hope of glory, Col.</hi> 1.27.</item>
+                  <item>4. The woful condition of all out of Christ; with<g ref="char:EOLhyphen"/>out <hi>Christ,</hi> and with<g ref="char:EOLhyphen"/>out <hi>life,</hi> and without <hi>hope</hi> in the world, <hi>Eph.</hi> 2.12.</item>
+               </list>
+            </p>
+            <p>The fifth morning ano<g ref="char:EOLhyphen"/>ther servant of God comes,
+<note place="margin">The fifth morning.</note> and he shewes you the dan<g ref="char:EOLhyphen"/>ger
+<pb n="65" facs="tcp:120712:39"/>of neglecting Gospel<g ref="char:EOLhyphen"/>grace; and from <hi>Acts</hi> 17.30. <hi>Those times of ignorance God winked at, but now com<g ref="char:EOLhyphen"/>mandeth all men every where to repent;</hi> gave these three excellent Observations.</p>
+            <p>
+               <hi>Doct.</hi> 1. <hi>Times of Paganism were times of ignorance.</hi>
+            </p>
+            <p n="2">2. <hi>'Tis a misery to be brought up in such times and places.</hi>
+            </p>
+            <p n="3">3. <hi>Times of the Gospel are times wherein God bespeaks e<g ref="char:EOLhyphen"/>very man, every where to repent.</hi>
+            </p>
+            <p>The 1. Use was, to reprove those Preachers, who in Go<g ref="char:EOLhyphen"/>spel-times cry down repent<g ref="char:EOLhyphen"/>ance and sorrow of heart: there is abundance of such preaching and Preachers, the Lord deliver us from them.</p>
+            <pb n="66" facs="tcp:120712:40"/>
+            <p> Secondly, such people as are not engaged by Gospel<g ref="char:EOLhyphen"/>dispensations to Gospel-re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>But much more they in the third place, that encou<g ref="char:EOLhyphen"/>rage themselves to live in sin, because they live in Go<g ref="char:EOLhyphen"/>spel-times; this is sad.</p>
+            <p>The second <hi>Ʋse,</hi> the Use of Exhortation from three Motives: <hi>scilicet,</hi> 1. The expectation of God. 2. The uncertainty of the Spirits motions: And 3. The dan<g ref="char:EOLhyphen"/>ger of delay; calls you ear<g ref="char:EOLhyphen"/>nestly and pathetically to re<g ref="char:EOLhyphen"/>pentance.</p>
+            <p>The sixth,
+<note place="margin">The sixth morning.</note> he holds out Christ unto you, as sealed to the Office of a Mediatour by God the Father, from <hi>John</hi> 6.27. <hi>Him hath God the
+<pb n="67" facs="tcp:120712:40"/>Father sealed:</hi> Sealed by his <hi>Baptisme,</hi> sealed by his <hi>Doctrine,</hi> sealed by his <hi>Mi<g ref="char:EOLhyphen"/>racles,</hi> sealed by his <hi>Resur<g ref="char:EOLhyphen"/>rection,</hi> but above all sealed by his <hi>glorious Ʋnction.</hi>
+            </p>
+            <p>The first Use was, to make them tremble that neglect and refuse Christ; for they neglect a sealed Saviour, they neglect him whom the Father hath sealed.</p>
+            <p>The second Use was, to shew the necessity of getting Christ; since neither Saints nor Angels were sealed, but only the Lord Jesus; O close with Christ, take him upon Gods termes, <hi>Him, him hath God the Father sealed.</hi>
+            </p>
+            <p>The third Use spake infi<g ref="char:EOLhyphen"/>nite comfort to them that do close with Christ, <hi>'tis a sealed
+<pb n="68" facs="tcp:120712:41"/>Redeemer,</hi> that you have taken and made choice of, and such as have taken Christ whom the Father hath sealed, may urge the <hi>Father</hi> with his <hi>Seal,</hi> and the <hi>Son</hi> with his <hi>Office:</hi> Lord, thou hast sealed Christ: Blessed Jesus, thou art seal<g ref="char:EOLhyphen"/>ed to the Office of a Medi<g ref="char:EOLhyphen"/>atour; O sweet Lord, do thy Office, subdue my cor<g ref="char:EOLhyphen"/>ruptions, sanctifie my heart, and so forth. And thus, such as these may look beyond wrath, and beyond the grave, and beyond ju<g ref="char:EOLhyphen"/>stice, with infinite comfort, even as many as take this sealed Saviour upon Gods conditions.</p>
+            <p>The seventh,
+<note place="margin">The se<g ref="char:EOLhyphen"/>venth mor<g ref="char:EOLhyphen"/>ning.</note> as the for<g ref="char:EOLhyphen"/>mer shewed you a Saviour
+<pb n="69" facs="tcp:120712:41"/>under Seale, so he doth shew you (a sad sight) a sin<g ref="char:EOLhyphen"/>ner under <hi>bondage, Acts</hi> 8.23. <hi>I perceive that thou art in the gall of bitternesse, and in the bond of iniquity;</hi> and thence he gives you this sad truth.</p>
+            <p>Doctr. <hi>That sins are the soules bonds.</hi>
+            </p>
+            <p n="1">1. Bonds tie things toge<g ref="char:EOLhyphen"/>ther, so do sins; one sin doth link in with another; sin doth tie the sinner and the curse together, binding over the guilty creature to hell, and the wrath of God for ever.</p>
+            <p n="2">2. Bonds gall the body, so sins gall the consci<g ref="char:EOLhyphen"/>ence.</p>
+            <p n="3">3. A man cannot flie from his bonds, no, nor a sinner from his guilt.</p>
+            <p n="4">
+               <pb n="70" facs="tcp:120712:42"/> 4. Bonds strangle the bo<g ref="char:EOLhyphen"/>dy, and sin strangles the soule; 'tis a destroyer.</p>
+            <p>Therefore upon these considerations he perswades you, 1. To hate sin. 2. To destroy sin. 3. To get out of those bonds of sin, as you tender your own soules. The course and means was, 1. To get into Christ; If the Son make you free, you shall be free indeed. 2. To give up your selves to his service.</p>
+            <p>The eighth comes,
+<note place="margin">The eighth morning.</note> as it were a wooing for Jesus Christ, and from <hi>Isa.</hi> 62.5. <hi>As a young man marrieth a Virgin, so shall thy sons marry thee: and as the Bridegroom rejoyceth over the Bride. so shall thy God rejoyce over thee:</hi> He gave you this excellent
+<pb n="71" facs="tcp:120712:42"/>Morning-cordial.</p>
+            <p>Doctr. <hi>That God stands re<g ref="char:EOLhyphen"/>lated and affected to his Church, as a Bridegroom to the Bride.</hi> He opened it in these particulars.</p>
+            <list>
+               <item>1. As a Bridegroom loves his Bride, so doth Christ love his Church.</item>
+               <item>2. As a Bridegroom af<g ref="char:EOLhyphen"/>fords his presence to his Bride, so doth Christ delight to be in the company of his Church.</item>
+               <item>3. As a Bridegroom coun<g ref="char:EOLhyphen"/>sels his Bride, so Christ counsels his Church, he is the <hi>Counsellour.</hi>
+               </item>
+               <item>4. As a Bridegroom doth protect his Bride, so doth Christ protect his Church.</item>
+               <item>5. As a Bridegroom pro<g ref="char:EOLhyphen"/>vides for his Bride, so
+<pb n="72" facs="tcp:120712:43"/>doth Christ provide for his Church and peo<g ref="char:EOLhyphen"/>ple.</item>
+               <item>6. As the husband payes all the wifes debts, so doth Christ pay all the debts his people owe to the Law, and to divine Justice.</item>
+               <item>7. As the husband covers all the infirmities of his yoke-fellow, so Christ covers the infirmities of his Church.</item>
+            </list>
+            <p>O Christians, who would not accept such a match as this? of what infinite con<g ref="char:EOLhyphen"/>cernment is it, for a poor guilty soule to accept of the tenders and offers of the Son of God, when he comes thus a wooing in the Go<g ref="char:EOLhyphen"/>spel?</p>
+            <pb n="73" facs="tcp:120712:43"/>
+            <p> The nineth course fell up<g ref="char:EOLhyphen"/>on that day which was the <hi>Fast-day;</hi> that day wherein we desired to humble our soules in reference to the ma<g ref="char:EOLhyphen"/>ny fires of late broke out in the City, and he whom Provi<g ref="char:EOLhyphen"/>dence sent that day, help't you, as it were, to draw wa<g ref="char:EOLhyphen"/>ter to quench the fire of Gods wrath: indeed his pathetical discourse drew a great deal of water from many eyes, and from <hi>John</hi> 4.23, 24. <hi>God is a Spirit, and they that worship him must worship him in spirit and in truth.</hi> He raised this point.</p>
+            <p>Doctr. <hi>That that worship which is acceptable to the God of spirits, is a spiritual worship.</hi> He shewed where<g ref="char:EOLhyphen"/>in this worship did consist.</p>
+            <list>
+               <item>1. In making conscience of
+<pb n="74" facs="tcp:120712:44"/>spiritual sins as well as corporal.</item>
+               <item>2. In getting, preserving and acting spiritual graces.</item>
+               <item>3. In acting all the facul<g ref="char:EOLhyphen"/>ties of the soule upon God.</item>
+               <item>4. In acting the externals, (the very outwards) of Religion in a spiritual manner.</item>
+            </list>
+            <p>It was an excellent dis<g ref="char:EOLhyphen"/>course, and deserved the Presse as well as the Pulpit, the Lord impresse it upon your hearts.</p>
+            <p>The tenth he comes, and from <hi>Mat.</hi> 16.26. <hi>What shall it profit a man to gain the whole world, and lose his own soul?</hi> he pointed to you the preciousnesse of your immor<g ref="char:EOLhyphen"/>tal
+<pb n="75" facs="tcp:120712:44"/>heaven-born soules, and gave you this doctrine.</p>
+            <p>Doctr. <hi>That the gaine of the world cannot countervaile the losse of a soule.</hi> Witnesse, 1. God that made it. 2. Wit<g ref="char:EOLhyphen"/>nesse the impresse of the soule, 'tis stamp't with the i<g ref="char:EOLhyphen"/>mage of God. 3. The im<g ref="char:EOLhyphen"/>mortality of it, it is immortal, it cannot die. 4. Witnesse the price paid for it, O the soule cost the precious blood of Jesus Christ.</p>
+            <p>He that loseth his soule, he loseth God, he lo<g ref="char:EOLhyphen"/>seth Angels, Saints, and he loseth Heaven and Glory for ever. He that is thus lost is lost <hi>intolerably,</hi> lost <hi>unrea<g ref="char:EOLhyphen"/>sonably,</hi> lost <hi>irrecoverably.</hi> Therefore before you mor<g ref="char:EOLhyphen"/>gage your soules to the de<g ref="char:EOLhyphen"/>vil, you were desired to sit
+<pb n="76" facs="tcp:120712:45"/>down and consider what your soules are worth, and then, if you can; bestow them upon the devil; and if you can be so vile as to part with such precious soules for a base lust,</p>
+            <p>The eleventh discovered to you your dreadful condi<g ref="char:EOLhyphen"/>tion, and from <hi>Isa.</hi> 29.9. <hi>Surely they are drunk, but not with wine; they stagger, but not with strong drink.</hi> He tells you,</p>
+            <p>Doct. <hi>That you are under a sore spiritual blast of divine vengeance.</hi> That the greatest &amp; worst of all plagues are <hi>spi<g ref="char:EOLhyphen"/>ritual, inward, soul-plagues.</hi> Men may wallow in out<g ref="char:EOLhyphen"/>ward delights and comforts, and thinkall is well, because they do not hear from God
+<pb n="77" facs="tcp:120712:45"/>in thundering and lighten<g ref="char:EOLhyphen"/>ing, while in the mean time wrath is upon their heads, their soules, their conscien<g ref="char:EOLhyphen"/>ces; and themselves at the next door to <hi>final reproba<g ref="char:EOLhyphen"/>tion;</hi> O fear and tremble.</p>
+            <p>The twelfth layes you in, as it were, a <hi>motive</hi> from your <hi>future condition,</hi> that it might waken you to a serious consideration of <hi>your present estate,</hi> from <hi>Gen.</hi> 5.24. <hi>And E<g ref="char:EOLhyphen"/>noch walked with God, and he was not; for God took him, &amp;c.</hi> and raised this truth.</p>
+            <p>
+               <hi>Doct.</hi> That <hi>there is a fu<g ref="char:EOLhyphen"/>ture estate for man.</hi> And therfore exhorts you; First, to live as those that expect a fu<g ref="char:EOLhyphen"/>ture estate. Secondly, to <hi>meditate</hi> much upon that u<g ref="char:EOLhyphen"/>ture estate. And thirdly, to
+<pb n="78" facs="tcp:120712:46"/>
+               <hi>prepare</hi> for it, that when you go hence, and be no more seen, you may be with God as <hi>Enoch</hi> was.</p>
+            <p>The thirteenth comes, and taking his text from <hi>Hosea</hi> 5.15. <hi>In their affliction they will seek me early, leaves this precious truth among you.</hi>
+            </p>
+            <p>Doctr. <hi>That times of affli<g ref="char:EOLhyphen"/>ction are times of Prayer and Supplication.</hi>
+            </p>
+            <p>And therefore counselled you, that the <hi>seasonablenesse</hi> of the work might cause you to close with it. The times are <hi>times of affliction;</hi> Oh that every one of you would make them <hi>times of prayer and supplication. In their afflicti<g ref="char:EOLhyphen"/>ons they will seek me early;</hi> afflictions upon the <hi>Nation,</hi>
+               <pb n="79" facs="tcp:120712:46"/>afflictions upon your <hi>selves:</hi> O be not weary of this duty of prayet and supplication.
+<note place="margin">It was the day of Humilia<g ref="char:EOLhyphen"/>tion, to the Conclusi<g ref="char:EOLhyphen"/>on of the <hi>Morning-Exercise.</hi>
+               </note> To morrow is a praying day: O come as the sons and daughters of God, to <hi>wre<g ref="char:EOLhyphen"/>stle</hi> with God, and with the Israelites, <hi>to draw water, and poure it out before the Lord.</hi>
+            </p>
+            <p>The fourteenth, he layes in a <hi>motive</hi> (as it were) to this duty, fetched from 1 <hi>Pet.</hi> 3.12. <hi>The eyes of the Lord are over the righteous, and his eares are open unto their prayers; but the face of the Lord is against them that do evil.</hi> As <hi>Moses</hi> and <hi>Joshua</hi> said, behold, he might say, I have set life and death be<g ref="char:EOLhyphen"/>fore you; rest not in a wick<g ref="char:EOLhyphen"/>ed condition; <hi>the frownes of
+<pb n="80" facs="tcp:120712:47"/>a King are as the Messengers of death;</hi> surely the frowns of God areas the Harbingers of hell.</p>
+            <p>The fifteenth doth, as it were make use of this do<g ref="char:EOLhyphen"/>ctrine, and from <hi>Lev.</hi> 19.2. <hi>Ye shall be holy, for I the Lord your God am holy;</hi> gives you this note:</p>
+            <p>Doctr. <hi>That holinesse is Gods perfection.</hi> Holinesse is that perfection whereby God doth act suitably to his nature, and agreeably to his will.</p>
+            <p>God is the <hi>Pattern</hi> of holi<g ref="char:EOLhyphen"/>nesse, he is the <hi>Rule</hi> of holi<g ref="char:EOLhyphen"/>nesse, he is the <hi>highest cause</hi> of holinesse. The holinesse of the creature doth consist in an universal hatred of sin, a delight in the things that
+<pb n="81" facs="tcp:120712:47"/>are holy, and in a conformity to Gods Will. He told you, hence it was the best po<g ref="char:EOLhyphen"/>licy to be holy, because thereby you shall be sure to be of the strongest side, to be of Gods side. What will become of all unholy ones in the day of Christ? surely, God will not know them be<g ref="char:EOLhyphen"/>cause they have not his i<g ref="char:EOLhyphen"/>mage upon them; <hi>You shall be holy, for I am holy. With<g ref="char:EOLhyphen"/>out holinesse no man shall see the Lord.</hi> If you would have God like you, you must be like God, be holy as he is holy, study holinesse.</p>
+            <p>The sixteenth he tells you, as if it had been a studied context, <hi>That hearing of God will not serve to make you holy, unlesse you see him.</hi>
+               <pb n="82" facs="tcp:120712:48"/>The sight of God in Gospel<g ref="char:EOLhyphen"/>discoveries, is that which will make you <hi>admire God,</hi> and <hi>abhor your selves,</hi> from <hi>Job</hi> 42.5. <hi>I have heard of thee by the hearing of the eare, but now mine eye seeth thee: Wherefore I abhorre my self, and repent in dust and ashes;</hi> Rest not in a <hi>general report</hi> of God, but la<g ref="char:EOLhyphen"/>bour for an experimental knowledge and discovery of him; Pray that you may <hi>see him in his glory,</hi> while you <hi>hear of him in his Word;</hi> that so you may be able also to say, I have heard of thee often by the hearing of the eare. but now mine eye seeth thee: Wherefore I abhor my selfe, and repent in dust and ashes.</p>
+            <pb n="83" facs="tcp:120712:48"/>
+            <p> The seventeenth, Messen<g ref="char:EOLhyphen"/>ger or Prophet of the Lord, he cries from the words of our Saviour, <hi>Luke</hi> 8.18. <hi>Take heed how you heare.</hi> Take heed <hi>before</hi> hearing, take heed <hi>in</hi> hearing, take heed <hi>after</hi> hearing. Take heed <hi>before</hi> hearing to <hi>prepa<g ref="char:EOLhyphen"/>ration,</hi> take heed <hi>in</hi> hearing to <hi>attention,</hi> take heed <hi>after</hi> hearing to <hi>practice,</hi> to obedi<g ref="char:EOLhyphen"/>ence; <hi>Be you doers of the Word, and not hearers only, deceiving your own soules.</hi> Take heed <hi>what</hi> you heare, and take heed <hi>how</hi> you hear. Take heed what you heare, lest the <hi>Preacher</hi> deceive you; and take heed how you heare, lest <hi>you</hi> deceive your <hi>selves.</hi>
+            </p>
+            <p>The eighteenth took his text from <hi>Acts</hi> 10.36.
+<pb n="84" facs="tcp:120712:49"/>
+               <hi>Preaching peace by Jesus Christ:</hi> and gives you these observations.</p>
+            <p n="1">1. <hi>That the Ministery of the Gospel is a Ministery of peace,</hi> preaching peace, &amp;c.</p>
+            <p n="2">2. <hi>That the peace which the Gospel preacheth, is by Christ.</hi>
+            </p>
+            <p>'Tis of Christ in a foure<g ref="char:EOLhyphen"/>fold respect. 1. 'Tis of Christs <hi>purchase.</hi> 2. Of Christs <hi>applying.</hi> 3. Of Christs <hi>continuing.</hi> 4. Of Christs <hi>publishing.</hi> And there<g ref="char:EOLhyphen"/>fore, 1. Certainly all <hi>Christ<g ref="char:EOLhyphen"/>lesse</hi> men, are <hi>peacelesse</hi> men; they that are without <hi>Christ</hi> are without <hi>peace;</hi> that's dreadful. Secondly, it was to encourage poor sinners to come to God thorow Christ; they are <hi>wrath,</hi> but he is <hi>peace;</hi> and therefare concludes in the third place,
+<pb n="85" facs="tcp:120712:49"/>that they, and they only, and all they are happy that accept of Christ upon Gods termes, because that Christ is their peace, and their re<g ref="char:EOLhyphen"/>conciliation with the Fa<g ref="char:EOLhyphen"/>ther; <hi>Being justified by faith, we have peace with God,</hi> Rom. 5.</p>
+            <p>The nineteenth comes as it were with a Use of Conso<g ref="char:EOLhyphen"/>lation upon the former text; doth Christ preach peace? then <hi>Isa.</hi> 40.1. <hi>Comfort ye, com<g ref="char:EOLhyphen"/>fort ye, my people, saith your God, speak ye comfortably to Jerusalem, tell her that her sin is pardoned, &amp;c.</hi> and gives you this comfortable doctrine from thence:</p>
+            <p>Doctr. <hi>That pardon of sin is the ground of all solid com<g ref="char:EOLhyphen"/>fort.</hi>
+            </p>
+            <pb n="86" facs="tcp:120712:50"/>
+            <p> So, <hi>Mark</hi> 9.2. <hi>Son, be of good comfort, thy sins are for<g ref="char:EOLhyphen"/>given thee.</hi> Pardon of sin, O its a comfortable conditi<g ref="char:EOLhyphen"/>on, 'tis a rich mercy, it cost Christ his blood; 'tis a <hi>distin<g ref="char:EOLhyphen"/>guishing</hi> mercy. And remem<g ref="char:EOLhyphen"/>ber it was told you in the Use of Examination, that <hi>pardon<g ref="char:EOLhyphen"/>ing grace</hi> alwayes goes a<g ref="char:EOLhyphen"/>long with <hi>healing grace:</hi> whereever sin is <hi>pardoned, corruption</hi> is <hi>mortified;</hi> and therefore let no man pre<g ref="char:EOLhyphen"/>sume of an interest in par<g ref="char:EOLhyphen"/>don, that lives in sin; <hi>Whom Christ justifieth, he doth also sanctisie,</hi> 1 <hi>Cor.</hi> 6.11.</p>
+            <p>The twentieth Messenger from God, taught you <hi>spiri<g ref="char:EOLhyphen"/>tual Providence,</hi> from <hi>Prov.</hi> 10.5. <hi>He that gathereth in Summer is a wise son; but he
+<pb n="87" facs="tcp:120712:50"/>that sleepeth in harvest, is a son that causeth shame:</hi> from thence he gave you this do<g ref="char:EOLhyphen"/>ctrine.</p>
+            <p>Doctr. <hi>That it is a special part of mans wisdome, to im<g ref="char:EOLhyphen"/>prove the seasons of spiritua plenty.</hi> Now you have the seasons of plenty.</p>
+            <p>What are they? the season of <hi>life,</hi> and the season of <hi>health,</hi> the season of <hi>Sab<g ref="char:EOLhyphen"/>baths,</hi> and the season of <hi>Or<g ref="char:EOLhyphen"/>dinances.</hi> And therefore that which he did earnestly call for, was; First, to bewaile your former folly, that you have made no better use of spiritual seasons of plenty. Secondly, to beg wisdom of God. And thirdly, be sure, now to make this your wis<g ref="char:EOLhyphen"/>dome, that in these seasons of plenty, you would lay up
+<pb n="88" facs="tcp:120712:51"/>good food, and not sticks, strawes, pebbles and dirt: but</p>
+            <p n="1">1. Lay in Scripture-<hi>truthes</hi> against times of <hi>error.</hi>
+            </p>
+            <p n="2">2. Lay in Scripture-<hi>dire<g ref="char:EOLhyphen"/>ctions</hi> against times of <hi>dark<g ref="char:EOLhyphen"/>nesse.</hi>
+            </p>
+            <p n="3">3. Lay in Scripture-<hi>com<g ref="char:EOLhyphen"/>forts</hi> against times of <hi>sorrow.</hi> And all these the rather, be<g ref="char:EOLhyphen"/>cause</p>
+            <p>The one and twentieth he told you that,</p>
+            <p n="1">1. <hi>'Tis possible for people that live under the Ordinances of God, to bring forth nothing but briars and thornes.</hi>
+            </p>
+            <p n="2">2. <hi>That the end of these that bring forth nothing but briars and thornes, is to be hurned.</hi>
+            </p>
+            <p>Both these dreadful truths
+<pb n="89" facs="tcp:120712:51"/>he gave you from <hi>Heb.</hi> 6.8. How nearly are Christians concerned to look to their fruit, and to bring forth good fruit? what's good fruit?</p>
+            <p>That is good fruit,</p>
+            <p n="1">1. That's answerable to your <hi>standing</hi> in the vine<g ref="char:EOLhyphen"/>yard: O let not a plant (it may be, of half a years stand<g ref="char:EOLhyphen"/>ing, shame you that are of twenty, thirty, fourty years standing in the Gospel.</p>
+            <p n="2">2. Bring forth fruit an<g ref="char:EOLhyphen"/>swerable to the cost and paines God hath been at with you. Let not that ground think to escape with the same fruit, upon whom God bestows much cost and much paines, as that which hath had none of these precious influences.</p>
+            <p n="3">3. Bring forth fruit suitable
+<pb n="90" facs="tcp:120712:52"/>to your <hi>former barrennesse,</hi> Rom. 6.19. <hi>As ye have yielded your members servants to un<g ref="char:EOLhyphen"/>cleannesse, and to iniquity, unto iniquity; even so now yield your members servants to righte<g ref="char:EOLhyphen"/>ousnesse, to holinesse.</hi> Give God the same measure you have given the <hi>devil,</hi> give God the same measure you have given the <hi>flesh,</hi> give God the same measure you have given the <hi>world;</hi> O be as fruitful for God as ever you have been for the devil. If you mean to bring forth briars and thornes, that is, (in English) if you mean to be drunkards, unclean per<g ref="char:EOLhyphen"/>sons, Sabbath-breakers, swearers, reproachers of God and his Ordinances, &amp;c. still, and to live as you list; if you will still bring forth briars
+<pb n="91" facs="tcp:120712:52"/>and thornes, quit your sta<g ref="char:EOLhyphen"/>tion; all ye profane wretches, get you into the wildernesse, that's the place forbriars &amp; thorns. Wo be to them that are planted in the garden of God, and yet bring forth briars and thornes: <hi>better</hi> you you were borne in the <hi>desert,</hi> then in the <hi>garden of God;</hi> of all places Christ will not endure a thorn there; there<g ref="char:EOLhyphen"/>fore his counsel was,</p>
+            <p n="1">1. If ever you would be fruitful, get into Christ.</p>
+            <p n="2">2. Lay your hearts open to the influences of heaven, <hi>(A very smart and spiritual ex<g ref="char:EOLhyphen"/>pression)</hi> that is, open your hearts to the Word, and to the motions of the Spirit of God.</p>
+            <p n="3">3. Take heed of wicked company, and take heed of
+<pb n="92" facs="tcp:120712:53"/>secret lusts; secret lusts will choak the Word, and you will become unfruitful.</p>
+            <p n="4">4. Pray that God would make you fruitful, that <hi>ha<g ref="char:EOLhyphen"/>ving your fruit unto holinesse, you may have your end in e<g ref="char:EOLhyphen"/>verlasting life.</hi>
+            </p>
+            <p>The two and twentieth, from <hi>Ezek.</hi> 18 31. <hi>Make you a new heart and a new spirit, for why will you die, O house of Israel?</hi> insisted excellent<g ref="char:EOLhyphen"/>ly upon these foure points.</p>
+            <p n="1">1. The necessity of a new heart, there's no life with<g ref="char:EOLhyphen"/>out it; <hi>Make you a new heart,</hi> for why will you <hi>die?</hi>
+            </p>
+            <p n="2">2. Our impotency, our dis<g ref="char:EOLhyphen"/>ability to make our selves a new heart; and yet notwith<g ref="char:EOLhyphen"/>standing in the</p>
+            <p n="3">3. Place, he shewed the equity of God, requiring it
+<pb n="93" facs="tcp:120712:53"/>at our hand; for though you have lost your power to o<g ref="char:EOLhyphen"/>bey, yet God hath not lost his power and authority to command; 'tis equal with God to require you should make your selves new hearts.</p>
+            <p n="4">4. It is, though ye can<g ref="char:EOLhyphen"/>not, yet it is just with God to condemn you for not having new hearts, though it be not in your power to make you new hearts; because once he gave us power, and we de<g ref="char:EOLhyphen"/>sperately sinned it away, &amp;c. Therefore he discovered isom hence,</p>
+            <p n="1">1. The danger of resting in <hi>moral honesty;</hi> he gave encouragement enough to men to be civil and morally honest; but he faithfully dis<g ref="char:EOLhyphen"/>charged his office in caution<g ref="char:EOLhyphen"/>ng you to take heed of rest<g ref="char:EOLhyphen"/>ing
+<pb n="94" facs="tcp:120712:54"/>in moral honesty.</p>
+            <p n="2">2. He warned you from resting in <hi>formality.</hi>
+            </p>
+            <p n="3">3. From taking up with <hi>outward reformation,</hi> from grosse sins only: are there not many that think them<g ref="char:EOLhyphen"/>selves Saints, berause they are no drunkards and swear<g ref="char:EOLhyphen"/>ers, and yet have not one spark of grace?</p>
+            <p n="4">4. He cautioned you to take heed of resting in a <hi>ge<g ref="char:EOLhyphen"/>neral Profession at large,</hi> namely, as you are Christi<g ref="char:EOLhyphen"/>ans and Protestants, &amp;c. all these were good he told you, but all these fall short of a new heart; they are not the thing that God calls for; therefore he pressed you to the getting of a new heart, 1. By deep conviction. 2. By waiting upon the Word of
+<pb n="95" facs="tcp:120712:54"/>God. 3. By constant suppli<g ref="char:EOLhyphen"/>cation for the accomplish<g ref="char:EOLhyphen"/>ment of that promise, <hi>Ezek.</hi> 36.26. <hi>I will take away the heart of stone, and a new heart will I give unto you.</hi> Blessed be God, that which is in the <hi>command impossible</hi> on your side, God hath undertaken it by <hi>promise:</hi> make you a new heart; O, saith the convinced soule, Lord, I cannot; then saith God, <hi>I will take away the heart of stone, and give an heart of flesh.</hi> If the command finds work, the promise findes strength; if the command dishearten you, let the pro<g ref="char:EOLhyphen"/>mise encourage you; faith<g ref="char:EOLhyphen"/>ful is he that hath promised, who also will do it. <hi>I will give you a new heart:</hi> go, and presse God with his pro<g ref="char:EOLhyphen"/>mise.</p>
+            <pb n="96" facs="tcp:120712:55"/>
+            <p> The three and twentieth preached upon the pa<g ref="char:EOLhyphen"/>rable of <hi>Dives</hi> and <hi>Lazarus, Luke</hi> 16. <hi>last, I pray thee, fa<g ref="char:EOLhyphen"/>ther</hi> Abraham, <hi>send</hi> Lazarus <hi>to warne my brethren &amp;c. No,</hi> saith <hi>Abraham, they have Moses and the Prophets, let them heare them, for if they hear not them; they will not be perswaded, though one rose from the dead;</hi> He shewed you most excellently what a vain and foolish thing it is to fancy some other way for conversion, and for turn<g ref="char:EOLhyphen"/>ing of men to God, then that which God himselfe hath already established; <hi>No,</hi> saith God, <hi>If they will not believe</hi> Moses <hi>and the Pro<g ref="char:EOLhyphen"/>phets, they will not hear, though one rise from the dead;</hi> and he gave clear evidences of it;
+<pb n="97" facs="tcp:120712:55"/>truly the first might serve in<g ref="char:EOLhyphen"/>stead of all, it was this: no way that can be thought of will do men good for refor<g ref="char:EOLhyphen"/>mation and conversion, un<g ref="char:EOLhyphen"/>lesse God set in with it, (mark the foundation upon which he builds his infe<g ref="char:EOLhyphen"/>rence) now is it likely and probable God should set in with wayes of mens inven<g ref="char:EOLhyphen"/>tion, when they despise the wayes of his own ordinati<g ref="char:EOLhyphen"/>on? Suppose one should come from hell all in flames, and tell you what the damned suffer there: is it probable this should do you good, when God tells you the same thing in the Word, and you will not be<g ref="char:EOLhyphen"/>lieve him? Its a most con<g ref="char:EOLhyphen"/>vincing argument, men that despise Ministers, and Word,
+<pb n="98" facs="tcp:120712:56"/>and Sacraments, and the in<g ref="char:EOLhyphen"/>stitutions of God, will never believe a report of a doubtful authority; <hi>You have a more sure word of prophecie,
+<note place="margin">2 Pet. 1.19</note> where<g ref="char:EOLhyphen"/>unto you do well that you take heed, &amp;c.</hi> despise it not, lest you provoke God to take a<g ref="char:EOLhyphen"/>way the means you have; and then wo unto you that ever you were borne.</p>
+            <p>The next preached to you concerning <hi>heart-purity,</hi> from <hi>Mat.</hi> 5.8. <hi>Blessed are the pure in heart. &amp;c.</hi> He shewed you the nature of heart-purity. It keepes the soule unspotted from the world.</p>
+            <p>He shewed the frame of it towards sin.</p>
+            <p n="1">1. 'Tis burdened under sin.</p>
+            <p n="2">2. It resolves aguinst all sin.</p>
+            <p n="3">
+               <pb n="99" facs="tcp:120712:56"/> 3. It makes out for power against sin, as well as for par<g ref="char:EOLhyphen"/>don; thats an infallible e<g ref="char:EOLhyphen"/>vidence.</p>
+            <p n="4">4. A pure heart is continu<g ref="char:EOLhyphen"/>ally renewing repentance.</p>
+            <p n="5">5. A pure heart is full of self-abhorrency.</p>
+            <p>The blessednesse of it he shewed from this, that such they shall see God: and this is enough; for certainly the vision of God is the very heaven of heaven; take this away, and heaven would be heaven no longer: there<g ref="char:EOLhyphen"/>fore the pure in heart are blessed: you were directed to the pursuit of this purity of heart, by six <hi>take heeds.</hi>
+            </p>
+            <p n="1">1. Take heed of selfopi<g ref="char:EOLhyphen"/>nion, for that will destroy you.</p>
+            <p n="2">2. Take heed of resting in
+<pb n="100" facs="tcp:120712:57"/>good thoughts of others, others think well of you, therefore you think well of your selves; take heed of a name to live when you are dead, <hi>Rev.</hi> 3.1.</p>
+            <p n="3">3. Take heed of compa<g ref="char:EOLhyphen"/>ring your selves with men worse then your selves, be<g ref="char:EOLhyphen"/>cause thou seest another worse then thy selfe, art thou therefore good? Oh sad mistake!</p>
+            <p n="4">4. Take heed of resting in a forme of godlinesse.</p>
+            <p n="5">5. Take heed of the cares of the world, they are very inconsistent with heart-pu<g ref="char:EOLhyphen"/>rity.</p>
+            <p n="6">6. Take heed of neglect<g ref="char:EOLhyphen"/>ing your spiritual watch.</p>
+            <p>Give up your selves to the study of the Word, if you would get purity of heart;
+<pb n="101" facs="tcp:120712:57"/>1. 'Tis a sin-discovering Word. 2. 'Tis a directing Word, it leads to holinesse. 3. 'Tis a soul-converting Word. And 4ly, it con<g ref="char:EOLhyphen"/>formes the soul to the like<g ref="char:EOLhyphen"/>nesse of God, <hi>We all behold, as in a glasse, the glory of the Lord, are changed into the same image, &amp;c.</hi>
+            </p>
+            <p>The tweuty fifth and the last, his voice methinks yet sounds in your eares, it was but yesterday-morning: cry<g ref="char:EOLhyphen"/>ing from 2 <hi>Cor.</hi> 13.5. <hi>Exa<g ref="char:EOLhyphen"/>mine your selves whether you be in the faith: prove your own selves: know you not that Je<g ref="char:EOLhyphen"/>sus Christ is in you, except you be reprobates?</hi> The doctrine was;</p>
+            <p>Doctr. <hi>That self-exami<g ref="char:EOLhyphen"/>nation is a most necessary and
+<pb n="102" facs="tcp:120712:58"/>most excellent duty.</hi>
+            </p>
+            <p>A duty which the <hi>pro<g ref="char:EOLhyphen"/>phane,</hi> and the <hi>sceptical</hi> Li<g ref="char:EOLhyphen"/>bertiue, can plead for in op<g ref="char:EOLhyphen"/>position to <hi>Ecclesiastical</hi> ex<g ref="char:EOLhyphen"/>amination; when Christs officers desire, you give an ac<g ref="char:EOLhyphen"/>count of your faith; for their satisfaction in what they do, when you come to claime a share in this Ordinance, then they can cry, <hi>We must examine our selves;</hi> they say to the Ministers and Officers of the Church, as the devils cried to Jefus, <hi>What have we to do with thee?</hi> so Ministers, what have we to do with you? we must ezamine our selves, let us alone, when in the mean time (did you mark it) as you were told lately, they <hi>do not examine</hi> them<g ref="char:EOLhyphen"/>selves; so he told you more,
+<pb n="103" facs="tcp:120712:58"/>
+               <hi>they cannot, they dare not ex<g ref="char:EOLhyphen"/>amine</hi> themselves: there is never a drunkard, whorema<g ref="char:EOLhyphen"/>ster, nor ignorant person in the world, that dares examine himself; they dare not, they cannot examine themselves; And how will these men and women be able to appear in the day of the Lord Jesus Christ? how will they be able to stand before the Tri<g ref="char:EOLhyphen"/>bunal of Christ, that cannot stand before the Ministery of the Gospel? how will they be able to endure <hi>fire exa<g ref="char:EOLhyphen"/>mination,</hi> that cannot endure Church-examination? nay, they cannot endure self-ex<g ref="char:EOLhyphen"/>amination, as lame and par<g ref="char:EOLhyphen"/>tial as their consciences are, therefore try your faith, ex<g ref="char:EOLhyphen"/>amine,</p>
+            <p n="1">1. Whether you have the
+<pb n="104" facs="tcp:120712:59"/>principles of faith in your hearts?</p>
+            <p n="2">2. Whether you have the power of faith in your con<g ref="char:EOLhyphen"/>sciences?</p>
+            <p n="3">3. Whether you have the practice of faith in your lives? As Christ said to his disci<g ref="char:EOLhyphen"/>ples,
+<note place="margin">Mat. 5.47.</note>
+               <hi>What singular thing do you do?</hi> so say we to you, You say you have faith; what doth your faith do <hi>more then the common faith,</hi> that goes up and down the world, that faith men swear by at e<g ref="char:EOLhyphen"/>very word? what doth your faith do more then the <hi>pre<g ref="char:EOLhyphen"/>sumptuous boldnesse,</hi> and <hi>ungrounded security</hi> of the world? what doth your faith do more then those vaine <hi>hopes</hi> of mercy men take up upon trust? what doth your faith do more then
+<pb n="105" facs="tcp:120712:59"/>those <hi>loose</hi> and <hi>unwarrant<g ref="char:EOLhyphen"/>able applications</hi> of Christ, wherein men rest and pe<g ref="char:EOLhyphen"/>rish? what doth your faith do more then <hi>counterfeit comforts,</hi> and <hi>counterfeit revelations</hi> that are abroad? more then the <hi>general per<g ref="char:EOLhyphen"/>swasions</hi> of ignorant people that God loves them? more then <hi>gifts,</hi> and more then <hi>formality?</hi> examine what sincerity is in your hearts, doth your faith work by love? what faithfulnesse to Christ and to his interest? do you make Christ your <hi>patterne</hi> as well as your Sa<g ref="char:EOLhyphen"/>viour? O examine; a little faith well tried, how com<g ref="char:EOLhyphen"/>fortable might it be to you in the Sacrament? how comfortable will it be in persecution? O what a com<g ref="char:EOLhyphen"/>fort
+<pb n="106" facs="tcp:120712:60"/>will a well-tried faith be to you upon your death<g ref="char:EOLhyphen"/>beds? and therefore consider,</p>
+            <p n="1">1. If you will not exa<g ref="char:EOLhyphen"/>mine your faith, God will examinc it.</p>
+            <p n="2">2. The devil will try it; <hi>Peter, Peter, Satan hath desi<g ref="char:EOLhyphen"/>red to winnow thee, &amp;c.</hi> What a stir did the devil keep about <hi>Peters</hi> faith there, to shake and undermine it?</p>
+            <p n="3">3. To be deceived in point of faith, of all other deceits in the world is most dange<g ref="char:EOLhyphen"/>rous; O take heed that your faith be not knocked off in the midst of the sea, as <hi>Pharaohs</hi> wheels were: many a mans faith is knocked off, in the midst of the indict<g ref="char:EOLhyphen"/>ments of the Law, and Sa<g ref="char:EOLhyphen"/>tans accusations: O that's a dreadful thing to lose your
+<pb n="107" facs="tcp:120712:60"/>faith when you come to die; for faith to leave you when you should have most use of your faith; to have faith to <hi>get,</hi> when you should have faith to <hi>use.</hi>
+            </p>
+            <p n="4">4. If you live and die in this estate you are <hi>reproba<g ref="char:EOLhyphen"/>ted,</hi> reprobate now, that is, in regard of your <hi>present e<g ref="char:EOLhyphen"/>state,</hi> but if you live and die in a mistake of your faith, you are reprobate in regard of your <hi>everlasting condition; He that believs not shall not see life, but the wrath of God a<g ref="char:EOLhyphen"/>bides upon him.</hi> O examine your faith; this was a word of <hi>comfort,</hi> that if you have <hi>the grace of faith,</hi> then all the <hi>priviledges</hi> of faith are yours, then God is yours, Christ yours, heaven yours, and glory yours.</p>
+            <pb n="108" facs="tcp:120712:61"/>
+            <p> And now consider, God hath sent (as I said before) his Prophets, his servants; <hi>all</hi> of them in great numbers, rising up early and sending them, time after time, and morning after morning; yea, take notice of the verse be<g ref="char:EOLhyphen"/>fore my text, God in send<g ref="char:EOLhyphen"/>ing his Prophets, <hi>he doth speak himself to you;</hi> 'tis ex<g ref="char:EOLhyphen"/>ceeding observable in the fourteenth verse; <hi>I have spoken to you, rising early, and speaking, &amp;c.</hi> God in send<g ref="char:EOLhyphen"/>ing his servants the Prophets to you, he speaks to you him<g ref="char:EOLhyphen"/>self, thats much to be laid to heart, that God in all his servants the Prophets, morn<g ref="char:EOLhyphen"/>ing after morning, for twen<g ref="char:EOLhyphen"/>ty six mornings together, I say, that God hath spoken to you himself; <hi>He that
+<pb n="109" facs="tcp:120712:61"/>heareth you, heareth me, and he that heareth me, heareth him that sent me.</hi> And up<g ref="char:EOLhyphen"/>on what termes have they invited you? only your <hi>own good; Amend your do<g ref="char:EOLhyphen"/>ings, and go not after o<g ref="char:EOLhyphen"/>ther gods, and you shall dwell in the land which I have given you;</hi> 'tis for your present comfort, and for your future happinesse, that God doth thus <hi>wooe</hi> and <hi>beseech</hi> you to be reconciled. Thus <hi>gracious<g ref="char:EOLhyphen"/>ly</hi> hath God fulfilled the former part of the text, in <hi>sending all his servants the Prophets, rising up early and sending them, calling you to reforme upon no worse termes, then your present comfort, and your future glory;</hi> Now if you shall ungra<g ref="char:EOLhyphen"/>ciously
+<pb n="110" facs="tcp:120712:62"/>fulfil the second part of the text; <hi>But ye have nor inclined your eare, nor hearkened to me;</hi> O what will become of you, if there be found those (and it may be they are not here, to whom this Word most properly belongs) I say, if there be found those that have not so much as <hi>lent God an eare,</hi> given him the <hi>hearing;</hi> God hath <hi>ri<g ref="char:EOLhyphen"/>sen early</hi> in his Prophets, but they have been <hi>sleeping in their beds,</hi> in their bed of <hi>nature,</hi> and in their bed of <hi>security;</hi> God hath sent his Prophet, and they have thought scorne to <hi>set</hi> their <hi>foot</hi> over the <hi>threshold;</hi> God hath opened his <hi>mouth,</hi> but they would not open their <hi>eare:</hi> What will you do in
+<pb n="111" facs="tcp:120712:62"/>the latter end? O what will become of such a gene<g ref="char:EOLhyphen"/>ration of sleepers; that have neglected the call of God? I speak of them that might have come and would not; I do not speak of them that would have come and can<g ref="char:EOLhyphen"/>not.</p>
+            <p>Secondly, among them that have come, if there be found such, who though possibly have inelined their <hi>eare;</hi> given God the hearing, yet they have not <hi>hearken<g ref="char:EOLhyphen"/>ed:</hi> if there be found among you <hi>idle</hi> hearers, <hi>forgetful</hi> hearers, assoon as ever you are out of the Church, the Word is out of your heads, and you never think of it more; if there be found <hi>un<g ref="char:EOLhyphen"/>trembling hearers,</hi> that hear indeed, but <hi>tremble</hi> not; that
+<pb n="112" facs="tcp:120712:63"/>heare, <hi>but blesse themselves in their hearts,
+<note place="margin">Deut. 29.19.</note> saying, I shall have peace, though I walk in the imagination of my heart, to adde drunkennesse to thirst, &amp;c.</hi> If there be found a<g ref="char:EOLhyphen"/>mong you <hi>unbelieving hear<g ref="char:EOLhyphen"/>ers,</hi> that hear, but <hi>do not mixe the word with faith,</hi> If there be found among you <hi>disobe<g ref="char:EOLhyphen"/>dient hearers,</hi> that <hi>received not the truth in the love of the truth;</hi> but harden their hearts, and <hi>stif<g ref="char:EOLhyphen"/>fen their necks,</hi> like an iron sinew, that say (in the lan<g ref="char:EOLhyphen"/>guage of their hearts, though it may be not with their mouthes) <hi>As for the Word of the Lord that thou hast spo<g ref="char:EOLhyphen"/>ken,
+<note place="margin">Jer. 44.16.</note> we will not hearken unto thee.</hi> What may you ex<g ref="char:EOLhyphen"/>pect, but that God should execute the fiereenesse of
+<pb n="113" facs="tcp:120712:63"/>his wrath, that here he threatens in the very next verse to my text: <hi>But this people hath not hearkened un<g ref="char:EOLhyphen"/>to me; therefore thus saith the Lord God of Hostes, the God of Israel, Behold, I will bring upon Judah, and upon all the inhabitants of Jerusa<g ref="char:EOLhyphen"/>lem, all the evil that I have pronounced against them: be<g ref="char:EOLhyphen"/>cause I have spoken to them, but they have not heard, and I have called unto them, but they have not answered?</hi> How may all that refuse to hear, or hearing refuse to obey, and refuse to put their neck under the yoke of Christ, how may they expect God should fulfil upon them all the judgements and curses written in this book, from the first of <hi>Genesis,</hi> to the
+<pb n="114" facs="tcp:120712:64"/>end of the <hi>Revelations?</hi> there<g ref="char:EOLhyphen"/>fore <hi>be wise, O ye Kings, be instructed,
+<note place="margin">Ps. 2.10.</note> ye Judges of the earth; Kisse the Son, lest he be angry, and ye perish from the way, &amp;c.</hi> O kisse Christ with a kisse of <hi>repentance,</hi> with a kisse of <hi>saith,</hi> with a kisse of <hi>subjection:</hi> make peace, come in, submit; if briars and thorns wil stand it out in battel, God will <hi>throw them into the fire &amp; burn them up:</hi>
+               <note place="margin">Isa. 27.4.</note> but if they will make peace, <hi>let them take hold of Gods strength,</hi> take hold of Jesus Christ: <hi>He is the arme of the Lord, Isa.</hi> 53.1. <hi>and they shall make peace with him.</hi> As for you that heare and tremble at the Word, here is comfort for you; look here in this Scripture, now read in your eares; God
+<pb n="115" facs="tcp:120712:64"/>promiseth a recompence of reward to <hi>Jonadabs</hi> sons for obeying the voice of their father. <hi>O how great good<g ref="char:EOLhyphen"/>nesse hath God laid up for them that feare before him!</hi> what a great reward may they ex<g ref="char:EOLhyphen"/>pect that hear and obey the voice of God in the Ministery of the Gospel! This is the comfort God hath sent me to you this morning wirhal, <hi>Isa.</hi> 66.2. <hi>To this man will I look, even to him that is poor, and of a contrite spirit, and trembleth at my word.</hi> The Lord give every one of you such a heart that God may look towards you. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:120712:65"/>
+            <pb facs="tcp:120712:65"/>
+            <head>A CAUTION to the <hi>Reader.</hi>
+            </head>
+            <p>
+               <hi>REader,</hi> It was not my purpose to print the <hi>Sermons</hi> which the Reverend Brethren preached this moneth: no, nor all the di<g ref="char:EOLhyphen"/>stinct <hi>Heads</hi> of their Ser<g ref="char:EOLhyphen"/>mons: my design was only (so far as I could do it in an houre, the time I alloted my self for this work) to bring their several <hi>texts,</hi> with the <hi>maine subject mat<g ref="char:EOLhyphen"/>ter</hi> of their larger discour<g ref="char:EOLhyphen"/>ses, to the remembrance of my people, that all might not <hi>perish</hi> with the <hi>hearing:</hi> ther<g ref="char:EOLhyphen"/>fore in this cursory running over their excellent labours,
+<pb facs="tcp:120712:66"/>I hope I have done them no wrong; if I may do thee good, is all intended, by him that desires to be an helper to thy faith,</p>
+            <closer>
+               <signed>THO. CASE.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
